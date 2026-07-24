@@ -1,0 +1,1001 @@
+ID,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_EMPLOYED,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS
+5987231,M,N,N,2,87655.86952225177,Higher education,Widow,House / apartment,-14965,-5110,1,0,0,Laborers,4
+5079954,M,N,Y,0,105761.68855887983,Higher education,Single / not married,House / apartment,-8030,-4745,0,1,0,Medicine staff,2
+5567130,M,Y,N,0,112090.53669799228,Higher education,Married,With parents,-22995,-365,1,0,0,High skill tech staff,2
+5500891,M,N,Y,1,136366.4126672024,Secondary / secondary special,Civil marriage,House / apartment,-11680,-6570,0,0,0,Accountants,2
+5055399,F,Y,N,0,343094.2963726926,Secondary / secondary special,Widow,House / apartment,-11315,-5840,0,0,0,,2
+5135049,M,N,N,0,68832.79037523348,Secondary / secondary special,Married,House / apartment,-10585,-7300,0,1,1,Managers,1
+5733378,F,N,Y,0,173598.8154419942,Higher education,Widow,House / apartment,-22995,-8395,1,0,0,,1
+5732057,F,N,N,0,172666.5364663448,Incomplete higher,Married,House / apartment,-22630,-730,0,0,1,Drivers,2
+5051333,F,Y,N,0,112886.10288700063,Secondary / secondary special,Married,House / apartment,-10220,-2190,0,1,0,Managers,2
+5731479,M,Y,N,0,100858.88327395693,Higher education,Civil marriage,House / apartment,-21535,-10585,0,1,0,,1
+5399758,M,Y,N,0,504522.01176551875,Higher education,Widow,House / apartment,-8395,-5840,0,1,1,Private service staff,1
+5401397,M,Y,Y,0,190747.99853711962,Secondary / secondary special,Married,House / apartment,-10220,-4015,0,1,0,High skill tech staff,2
+5855485,M,N,N,0,286972.4519844235,Secondary / secondary special,Divorced,House / apartment,-7665,-7300,0,0,1,Sales staff,2
+5858884,M,N,N,0,203520.58473479652,Higher education,Divorced,House / apartment,-18615,-730,0,1,0,Security staff,2
+5503247,M,N,Y,0,88393.20723812621,Secondary / secondary special,Civil marriage,House / apartment,-11680,0,0,0,0,,2
+5864741,F,N,N,0,80556.7547869043,Higher education,Divorced,House / apartment,-16425,-5840,0,0,0,Accountants,2
+5035032,F,Y,N,0,360316.2801845095,Secondary / secondary special,Widow,House / apartment,-12410,-10585,0,0,0,Cooking staff,1
+5995703,F,Y,Y,0,164413.30106196777,Secondary / secondary special,Single / not married,Municipal apartment,-20075,-6205,0,0,0,Security staff,2
+5376761,F,N,N,2,244606.53741925524,Higher education,Widow,House / apartment,-17885,-8030,1,0,0,Laborers,4
+5811353,M,Y,Y,0,214102.11047551362,Secondary / secondary special,Civil marriage,Municipal apartment,-18615,-7665,0,0,1,,1
+5577745,M,N,N,0,181990.4670433421,Incomplete higher,Civil marriage,House / apartment,-10950,365243,0,1,0,High skill tech staff,2
+5659806,F,Y,N,0,177172.46836948497,Lower secondary,Married,House / apartment,-18615,-7300,0,0,0,Waiters/Barmen staff,2
+5219339,M,N,Y,0,308570.0822834513,Higher education,Divorced,House / apartment,-14965,-2920,0,1,0,Secretaries,2
+5979755,M,N,N,1,175043.49692539958,Secondary / secondary special,Widow,House / apartment,-10220,-1825,0,0,1,Private service staff,3
+5625691,M,Y,Y,0,121630.71685278126,Secondary / secondary special,Civil marriage,House / apartment,-19345,-3285,0,1,0,Secretaries,2
+5215339,M,Y,Y,0,121305.82247911787,Higher education,Divorced,House / apartment,-8030,-1095,0,1,0,IT staff,2
+5443417,F,Y,Y,0,97433.3958134381,Secondary / secondary special,Married,House / apartment,-17520,-3650,0,1,0,IT staff,2
+5980328,F,Y,N,0,93477.36370276057,Higher education,Divorced,House / apartment,-15695,-10220,0,1,0,Sales staff,2
+5336983,M,N,Y,1,150041.48022697194,Secondary / secondary special,Single / not married,House / apartment,-7665,-8760,0,0,0,Core staff,3
+5518812,F,N,Y,0,292477.17972967203,Higher education,Civil marriage,House / apartment,-22630,-8395,0,0,0,Cooking staff,2
+5943378,M,N,Y,0,90217.90933775222,Secondary / secondary special,Single / not married,House / apartment,-18250,-1460,1,0,0,Secretaries,2
+5002085,F,N,N,1,84239.22811639478,Lower secondary,Divorced,House / apartment,-12045,-7300,0,1,0,,3
+5663615,M,Y,Y,0,233836.35436039168,Incomplete higher,Widow,House / apartment,-14600,-2920,0,0,0,Medicine staff,1
+5677814,M,N,N,0,202245.95446511373,Higher education,Married,House / apartment,-9490,-2920,0,0,0,Realty agents,1
+5957737,M,Y,Y,0,144983.18380074308,Higher education,Divorced,House / apartment,-14235,365243,0,1,0,HR staff,2
+5543082,M,N,Y,0,207165.77656988578,Secondary / secondary special,Divorced,Rented apartment,-16425,-2555,1,0,0,Drivers,2
+5529927,F,Y,N,0,158326.2864895044,Secondary / secondary special,Divorced,House / apartment,-20805,-2190,0,0,0,Cleaning staff,1
+5066336,F,N,Y,0,107760.16305536477,Incomplete higher,Divorced,House / apartment,-8760,-3650,0,0,0,Cooking staff,1
+5272966,M,N,N,0,392504.67379832064,Higher education,Divorced,House / apartment,-19710,-5840,0,0,0,Drivers,2
+5876375,M,N,Y,2,124899.93156995156,Higher education,Single / not married,House / apartment,-8760,-1825,0,0,0,Realty agents,3
+5443181,F,Y,N,0,77032.57158974808,Higher education,Widow,House / apartment,-13140,-1095,0,1,0,Cooking staff,2
+5038747,F,Y,Y,0,178265.5285984149,Higher education,Civil marriage,House / apartment,-13505,-1095,0,1,0,Medicine staff,2
+5244518,M,Y,N,0,309936.8546390734,Higher education,Widow,House / apartment,-12775,-7300,1,1,0,Secretaries,2
+5321941,M,Y,Y,0,273016.597682207,Secondary / secondary special,Single / not married,Municipal apartment,-22265,0,0,1,0,Secretaries,2
+5212423,M,N,Y,1,131755.54645572146,Academic degree,Widow,House / apartment,-18615,-2920,0,0,0,Private service staff,2
+5684487,M,Y,N,0,92468.05867037179,Secondary / secondary special,Widow,House / apartment,-21900,-2920,0,0,0,Security staff,2
+5460021,F,N,N,0,136513.26050230608,Higher education,Married,With parents,-20440,-4015,0,0,0,Managers,2
+5330797,F,N,N,1,195335.76601969104,Secondary / secondary special,Civil marriage,House / apartment,-20805,0,0,1,1,High skill tech staff,3
+5820287,F,Y,Y,0,189652.45654788287,Secondary / secondary special,Divorced,House / apartment,-11680,0,0,0,1,Drivers,2
+5934968,M,N,Y,0,36866.13437552806,Secondary / secondary special,Single / not married,House / apartment,-16060,365243,0,0,0,HR staff,2
+5878902,M,Y,N,0,150237.27746295914,Secondary / secondary special,Single / not married,House / apartment,-18250,-5840,0,0,0,IT staff,2
+5507014,M,N,N,0,534704.6492667974,Higher education,Widow,House / apartment,-12045,-365,0,1,0,HR staff,1
+5063468,F,Y,N,0,132949.11587179961,Higher education,Widow,House / apartment,-22630,-6570,0,0,0,IT staff,2
+5568670,F,N,Y,0,104320.37684176372,Secondary / secondary special,Divorced,House / apartment,-15695,-1095,0,0,0,Accountants,1
+5855771,M,Y,N,0,102737.07267943362,Higher education,Single / not married,House / apartment,-7665,-4745,1,0,0,High skill tech staff,1
+5606372,M,Y,Y,1,336807.7171739516,Secondary / secondary special,Widow,House / apartment,-14965,-5840,0,1,1,Waiters/Barmen staff,3
+5358900,M,Y,Y,0,153236.51752573898,Secondary / secondary special,Single / not married,House / apartment,-9490,-5475,1,0,0,Laborers,1
+5178392,M,Y,N,1,200228.69371874834,Higher education,Single / not married,House / apartment,-9855,-6570,0,0,0,Low-skill Laborers,3
+5921914,M,N,N,0,101702.2913197521,Secondary / secondary special,Married,House / apartment,-21900,-6205,1,1,0,Sales staff,2
+5348365,M,Y,Y,0,140502.04780372328,Secondary / secondary special,Widow,House / apartment,-21170,-6205,0,0,0,Secretaries,2
+5377482,F,N,N,0,259009.04719444187,Secondary / secondary special,Civil marriage,House / apartment,-8760,365243,1,1,0,Sales staff,2
+5044792,M,Y,N,1,158491.0745339195,Secondary / secondary special,Civil marriage,House / apartment,-14235,365243,0,0,0,Realty agents,2
+5690927,M,Y,N,1,394360.44480522105,Higher education,Married,House / apartment,-14235,-8395,0,0,0,Managers,3
+5050313,F,N,N,0,164187.91304228964,Higher education,Married,House / apartment,-15330,-3650,0,0,0,HR staff,2
+5780881,F,Y,N,1,135233.53202971633,Secondary / secondary special,Married,House / apartment,-10220,-1095,0,0,1,Cooking staff,3
+5018958,F,Y,Y,0,100186.69920522673,Lower secondary,Divorced,House / apartment,-22265,365243,0,0,0,Private service staff,2
+5804703,F,N,Y,0,115964.9849307275,Secondary / secondary special,Civil marriage,House / apartment,-8760,-10220,0,0,0,,2
+5008985,M,N,N,0,148315.0717004439,Secondary / secondary special,Civil marriage,House / apartment,-17520,-8030,0,0,0,Private service staff,1
+5099901,M,Y,N,1,423764.5881477947,Secondary / secondary special,Single / not married,House / apartment,-15330,-4015,0,0,0,Core staff,2
+5655318,F,N,N,0,210309.0315681335,Secondary / secondary special,Married,House / apartment,-22265,-3650,0,1,0,Waiters/Barmen staff,1
+5224928,F,Y,Y,1,351668.8466730976,Incomplete higher,Widow,House / apartment,-21535,-2920,1,1,0,Managers,2
+5926625,F,Y,Y,1,122492.32521625893,Incomplete higher,Widow,Office apartment,-8395,-4015,0,0,0,Core staff,3
+5067898,M,N,N,0,80730.25377166277,Higher education,Civil marriage,House / apartment,-11315,365243,0,0,0,Low-skill Laborers,2
+5068878,M,Y,N,2,142016.3653822225,Higher education,Civil marriage,House / apartment,-11680,-730,0,1,0,Cleaning staff,3
+5904484,F,N,Y,2,355507.1149768977,Lower secondary,Civil marriage,House / apartment,-10220,-7300,0,1,0,,3
+5244299,M,N,Y,2,204030.79672067208,Secondary / secondary special,Civil marriage,House / apartment,-9125,-6205,0,0,0,Secretaries,4
+5912237,M,Y,Y,0,114158.0781676089,Higher education,Widow,House / apartment,-22630,-8760,0,0,1,Sales staff,2
+5803684,M,N,N,1,472991.812717408,Higher education,Widow,House / apartment,-7665,-6205,0,1,0,Accountants,3
+5444936,F,N,N,0,232281.34034856298,Secondary / secondary special,Divorced,House / apartment,-17155,-1095,0,0,0,Core staff,2
+5895958,F,N,N,0,136263.04306490283,Secondary / secondary special,Civil marriage,House / apartment,-10950,-5110,0,0,0,Core staff,1
+5858828,F,Y,Y,0,254965.95541664798,Secondary / secondary special,Divorced,House / apartment,-11315,-7665,1,1,0,Core staff,2
+5575347,F,N,N,1,217158.1483638515,Higher education,Divorced,House / apartment,-14965,-10585,0,1,0,Medicine staff,3
+5464016,F,Y,Y,0,254067.9148059434,Higher education,Divorced,House / apartment,-23360,-3285,0,0,1,Accountants,2
+5196829,M,Y,N,0,230307.76131202021,Secondary / secondary special,Divorced,House / apartment,-12045,365243,0,0,0,Medicine staff,2
+5309023,F,N,N,0,168151.09282760753,Secondary / secondary special,Widow,House / apartment,-10220,-3285,0,1,0,HR staff,2
+5347381,F,N,Y,2,285816.6730281906,Secondary / secondary special,Civil marriage,House / apartment,-17155,-9490,1,0,0,Cooking staff,4
+5310804,M,Y,Y,0,165755.96196101131,Higher education,Divorced,House / apartment,-21535,-8395,0,0,0,High skill tech staff,2
+5837523,F,Y,N,0,118382.58511726344,Secondary / secondary special,Married,House / apartment,-18615,-9125,1,0,0,Cooking staff,2
+5268240,M,N,Y,0,134600.5303294868,Higher education,Divorced,House / apartment,-11680,-365,0,0,0,Cleaning staff,2
+5366137,F,N,N,0,251990.52180845622,Higher education,Single / not married,House / apartment,-10950,-2920,0,0,1,Cleaning staff,2
+5449596,M,N,N,3,90751.64135948576,Higher education,Married,House / apartment,-22995,-9125,0,0,0,Managers,5
+5586917,M,N,N,0,306552.01635946037,Higher education,Married,House / apartment,-18250,-8395,0,0,0,Sales staff,2
+5980753,F,N,Y,0,120950.65410594815,Higher education,Civil marriage,House / apartment,-16790,-4380,1,0,1,Core staff,2
+5051662,M,N,N,0,278869.30353079166,Secondary / secondary special,Widow,House / apartment,-12410,-5475,0,0,0,Private service staff,2
+5892873,M,Y,N,0,281607.4900914548,Secondary / secondary special,Married,House / apartment,-8030,-3285,0,1,0,Waiters/Barmen staff,2
+5576798,F,Y,Y,0,105096.33859154202,Secondary / secondary special,Civil marriage,House / apartment,-22630,-2555,0,0,0,IT staff,1
+5480866,F,Y,Y,0,171214.4551401086,Secondary / secondary special,Widow,House / apartment,-18250,-10585,0,1,0,Cooking staff,2
+5550670,M,N,N,0,108438.2497696581,Secondary / secondary special,Widow,House / apartment,-17155,365243,0,0,0,High skill tech staff,2
+5584291,M,N,Y,1,358128.29327535763,Secondary / secondary special,Widow,House / apartment,-17885,-7300,1,0,0,Accountants,3
+5362131,M,Y,Y,1,100345.87006619944,Secondary / secondary special,Civil marriage,House / apartment,-9125,365243,1,1,0,Cleaning staff,3
+5033319,F,N,Y,0,125627.11048190974,Secondary / secondary special,Divorced,House / apartment,-10585,365243,0,0,0,IT staff,2
+5215537,M,Y,Y,0,255614.30646780675,Higher education,Married,House / apartment,-7665,-7300,0,0,0,Low-skill Laborers,1
+5126314,F,Y,N,0,61405.14462624486,Higher education,Widow,House / apartment,-18980,-8760,0,0,0,Secretaries,1
+5460373,F,Y,Y,0,132087.58538345576,Secondary / secondary special,Divorced,House / apartment,-18615,-9490,0,1,0,Private service staff,2
+5489379,M,N,N,0,225136.84827231284,Secondary / secondary special,Divorced,House / apartment,-21900,-5475,0,1,0,Low-skill Laborers,2
+5063224,F,N,N,0,164957.48703874287,Secondary / secondary special,Married,House / apartment,-9490,-2555,0,1,0,Realty agents,1
+5965339,F,N,N,0,137519.80600501486,Secondary / secondary special,Civil marriage,House / apartment,-18980,-6205,1,1,0,Core staff,2
+5779635,F,Y,Y,0,140007.07218089906,Higher education,Divorced,House / apartment,-8395,-8760,0,0,0,Accountants,2
+5695825,F,Y,Y,0,114079.25559360081,Secondary / secondary special,Widow,House / apartment,-18615,-4380,0,0,0,Sales staff,2
+5561880,M,Y,N,0,81887.80187659174,Higher education,Married,House / apartment,-10585,-5840,0,0,0,Secretaries,2
+5279994,F,N,N,0,63611.280965292426,Secondary / secondary special,Married,Co-op apartment,-16790,365243,0,0,0,Waiters/Barmen staff,2
+5876144,F,N,N,0,156391.03236661354,Higher education,Married,House / apartment,-17520,-10220,0,0,1,Secretaries,2
+5571749,F,N,N,0,214210.42607822546,Secondary / secondary special,Married,House / apartment,-21170,-8395,0,0,0,Private service staff,2
+5435458,F,Y,Y,1,97126.0068029824,Secondary / secondary special,Civil marriage,House / apartment,-14600,-4745,0,0,0,High skill tech staff,3
+5256147,M,N,Y,0,229084.2811732378,Secondary / secondary special,Married,Rented apartment,-8760,-6205,0,0,0,Sales staff,2
+5527943,M,N,N,2,62998.24259105669,Incomplete higher,Civil marriage,House / apartment,-14600,-8760,1,0,0,Waiters/Barmen staff,3
+5330301,F,Y,N,0,88201.0772479532,Secondary / secondary special,Single / not married,Co-op apartment,-16790,-365,0,1,0,Sales staff,2
+5872559,M,Y,Y,0,162014.36314150094,Higher education,Divorced,House / apartment,-9125,-5475,0,0,1,Core staff,1
+5069254,F,Y,Y,1,129390.93250652173,Incomplete higher,Single / not married,House / apartment,-16060,-1460,0,1,0,Sales staff,3
+5678875,F,N,N,1,247162.90474804968,Secondary / secondary special,Single / not married,House / apartment,-17155,365243,0,1,0,Accountants,3
+5275405,M,Y,Y,0,280711.23164239916,Secondary / secondary special,Civil marriage,House / apartment,-13140,-6205,0,1,0,Managers,1
+5943251,M,Y,N,0,169422.05326597864,Secondary / secondary special,Widow,House / apartment,-15695,-5110,1,0,0,HR staff,2
+5587305,M,Y,N,2,122713.38302688116,Secondary / secondary special,Civil marriage,House / apartment,-21535,365243,0,0,0,,4
+5889145,F,Y,Y,0,155232.1418359415,Secondary / secondary special,Single / not married,Office apartment,-21900,-4015,1,1,0,Accountants,1
+5379066,M,Y,Y,0,193300.46809130983,Secondary / secondary special,Married,House / apartment,-16790,0,1,1,0,High skill tech staff,2
+5115771,M,N,N,0,86449.82965520846,Secondary / secondary special,Divorced,House / apartment,-13505,-9490,0,0,0,Cooking staff,2
+5517431,M,Y,Y,1,154388.77109828338,Higher education,Married,House / apartment,-13505,-4015,0,0,0,,3
+5265973,F,Y,Y,2,179253.9977424446,Secondary / secondary special,Single / not married,House / apartment,-17885,-2555,0,1,0,Sales staff,3
+5675594,M,N,N,0,116461.99096795957,Secondary / secondary special,Married,House / apartment,-16425,-1095,1,0,0,Secretaries,2
+5400807,M,Y,Y,1,249641.54432350307,Secondary / secondary special,Widow,House / apartment,-12775,365243,0,0,0,Cooking staff,2
+5565510,F,N,Y,0,80047.8187787095,Higher education,Widow,House / apartment,-8030,-6935,0,1,0,Drivers,1
+5100075,M,Y,Y,3,107126.1606945741,Secondary / secondary special,Civil marriage,House / apartment,-23360,-3650,0,1,0,IT staff,4
+5701082,F,Y,N,0,107500.5332450849,Secondary / secondary special,Married,With parents,-8760,365243,0,1,0,IT staff,2
+5103660,F,Y,Y,0,96237.39527406443,Secondary / secondary special,Married,House / apartment,-13870,-8395,0,0,0,Core staff,2
+5172271,F,Y,N,0,149468.91498147877,Higher education,Divorced,House / apartment,-21170,-9490,0,0,0,Secretaries,1
+5331227,F,N,N,0,285924.8972919371,Secondary / secondary special,Single / not married,House / apartment,-21900,-6935,0,0,0,Low-skill Laborers,1
+5259149,F,N,Y,0,68629.66211703916,Secondary / secondary special,Civil marriage,Rented apartment,-9490,-8395,0,0,0,Core staff,2
+5938626,F,Y,N,0,174532.0710041235,Secondary / secondary special,Divorced,Rented apartment,-14235,0,1,0,0,Laborers,2
+5606357,F,Y,Y,0,82615.79969949747,Incomplete higher,Married,House / apartment,-13870,-3650,1,0,0,Waiters/Barmen staff,2
+5990306,M,N,Y,1,197047.70806748062,Higher education,Divorced,House / apartment,-22265,-4015,0,0,0,Accountants,2
+5829829,F,N,N,1,229970.40393705913,Secondary / secondary special,Civil marriage,House / apartment,-16790,365243,0,0,0,Sales staff,3
+5875277,F,Y,Y,2,161994.1830571189,Secondary / secondary special,Civil marriage,House / apartment,-21900,365243,0,0,0,Accountants,4
+5256729,M,N,Y,0,159310.00413639675,Higher education,Married,House / apartment,-12775,-9855,0,0,0,Realty agents,2
+5246895,F,Y,Y,2,426159.96904372255,Secondary / secondary special,Married,With parents,-17885,-8760,0,1,0,Cleaning staff,4
+5040810,F,Y,N,0,208811.23180051555,Secondary / secondary special,Civil marriage,House / apartment,-9855,-3650,0,0,0,HR staff,2
+5314674,F,Y,N,0,185602.0487594736,Secondary / secondary special,Married,House / apartment,-22265,-5840,1,0,0,High skill tech staff,2
+5020473,M,N,N,0,77747.44822197664,Incomplete higher,Widow,House / apartment,-14965,-7300,0,0,0,HR staff,2
+5525060,M,Y,Y,2,220215.31440500356,Secondary / secondary special,Widow,House / apartment,-22630,-9855,1,0,0,Core staff,3
+5582946,F,Y,Y,0,102513.48107765368,Higher education,Divorced,House / apartment,-13505,-1095,0,0,1,Secretaries,1
+5881794,M,Y,Y,1,347672.6726048846,Incomplete higher,Divorced,House / apartment,-14965,-8760,0,0,0,,3
+5974158,F,N,N,0,135138.91978876834,Secondary / secondary special,Civil marriage,House / apartment,-8395,365243,0,0,0,Medicine staff,1
+5422758,F,N,N,0,88224.80745654494,Secondary / secondary special,Widow,House / apartment,-9125,-8395,0,0,0,Security staff,2
+5673532,M,N,Y,0,73258.90147828047,Higher education,Married,House / apartment,-12410,365243,0,0,0,Cooking staff,2
+5826660,F,Y,Y,1,148839.99896835824,Higher education,Divorced,House / apartment,-18250,-5475,0,0,0,Accountants,2
+5733810,M,Y,Y,0,171694.65490432753,Secondary / secondary special,Civil marriage,House / apartment,-19710,-3650,0,0,0,Cooking staff,2
+5837315,F,N,N,2,257141.75723253316,Higher education,Single / not married,House / apartment,-17155,-6205,1,0,0,Security staff,3
+5570266,M,N,Y,0,135853.8678737369,Higher education,Civil marriage,House / apartment,-22265,-730,0,1,0,Core staff,2
+5006298,M,Y,Y,2,129660.77376307234,Secondary / secondary special,Single / not married,Municipal apartment,-10220,-1460,0,1,0,Managers,4
+5996135,M,N,N,0,181832.36690690092,Higher education,Divorced,House / apartment,-23360,-2555,0,0,0,Accountants,2
+5711524,F,Y,Y,0,137168.12293536233,Secondary / secondary special,Divorced,House / apartment,-15330,-5475,1,1,1,Laborers,1
+5959375,F,Y,Y,1,65021.78697838351,Higher education,Single / not married,House / apartment,-21535,-4745,0,0,0,Security staff,3
+5055070,F,Y,N,0,118877.0718516585,Secondary / secondary special,Single / not married,House / apartment,-7665,-8030,0,0,0,Cooking staff,2
+5021219,M,N,N,0,230367.49856179845,Higher education,Civil marriage,House / apartment,-20805,-6205,0,0,0,Cooking staff,2
+5430193,F,Y,N,2,167263.66591781646,Higher education,Divorced,House / apartment,-7665,-4380,0,0,0,Realty agents,4
+5992619,M,N,Y,0,129538.33195132905,Secondary / secondary special,Widow,House / apartment,-23360,-9125,0,0,0,Cooking staff,2
+5123551,F,N,Y,0,158166.88803896483,Secondary / secondary special,Married,House / apartment,-18250,-4380,1,1,0,Cleaning staff,2
+5432316,F,N,Y,0,152254.28881151936,Higher education,Divorced,House / apartment,-11315,-2555,1,0,0,Managers,2
+5274636,M,Y,Y,0,181269.5042418441,Secondary / secondary special,Divorced,House / apartment,-18250,-6205,0,1,1,Cooking staff,1
+5115138,F,N,Y,0,152480.0985790296,Higher education,Divorced,House / apartment,-22630,-4745,1,0,0,Waiters/Barmen staff,1
+5431446,F,N,N,0,51873.38599814894,Secondary / secondary special,Civil marriage,House / apartment,-13870,-5840,1,1,0,Realty agents,1
+5092660,M,N,N,1,177363.75634549645,Secondary / secondary special,Widow,House / apartment,-10950,365243,0,0,0,HR staff,3
+5450102,F,Y,N,0,122189.4239662235,Higher education,Widow,House / apartment,-8395,-4015,1,1,0,Laborers,2
+5348666,F,N,N,0,152145.99349819345,Higher education,Civil marriage,House / apartment,-20805,365243,1,0,1,Sales staff,1
+5344474,F,N,N,1,136740.38470721315,Secondary / secondary special,Divorced,House / apartment,-12045,365243,0,0,0,Drivers,3
+5483615,F,N,N,1,249614.30226141462,Higher education,Civil marriage,House / apartment,-18250,0,0,0,0,Drivers,3
+5508945,M,Y,N,2,387866.41723347665,Incomplete higher,Married,House / apartment,-13870,-9490,1,1,0,Accountants,3
+5481188,M,N,N,1,84839.35622815917,Higher education,Civil marriage,House / apartment,-18250,-8760,0,0,0,Sales staff,3
+5441451,M,N,N,0,288267.18957849644,Incomplete higher,Married,House / apartment,-16425,-8030,1,1,0,IT staff,2
+5531787,M,N,Y,0,203514.7194214737,Higher education,Single / not married,House / apartment,-13870,-2920,0,1,0,Low-skill Laborers,2
+5556418,F,N,Y,0,74298.42999877981,Higher education,Divorced,House / apartment,-15330,0,1,0,1,High skill tech staff,1
+5973423,M,Y,Y,0,242897.72529222228,Higher education,Single / not married,Rented apartment,-13870,-10585,0,0,0,IT staff,2
+5386542,F,Y,Y,0,145172.11909195574,Secondary / secondary special,Civil marriage,House / apartment,-8395,0,0,1,0,Medicine staff,1
+5025768,F,N,Y,1,120253.29519845043,Secondary / secondary special,Widow,House / apartment,-11680,365243,0,0,0,,2
+5470128,F,N,Y,0,156257.6593613723,Higher education,Married,House / apartment,-11680,-7665,0,0,0,Sales staff,1
+5931864,M,N,N,0,258374.82736735395,Higher education,Civil marriage,House / apartment,-12410,-10220,0,0,0,Private service staff,2
+5488469,M,N,Y,0,45808.175751974384,Higher education,Divorced,House / apartment,-11315,-10220,0,1,0,Low-skill Laborers,1
+5200614,M,Y,Y,1,294232.1266773125,Lower secondary,Single / not married,House / apartment,-21170,-7665,0,0,0,Managers,3
+5694206,M,Y,N,0,102724.08204738743,Secondary / secondary special,Widow,House / apartment,-13870,-9490,0,0,0,Waiters/Barmen staff,1
+5969439,M,Y,Y,0,95109.41683574062,Secondary / secondary special,Single / not married,House / apartment,-10220,-730,0,1,0,Accountants,1
+5802841,M,Y,Y,0,289004.4639211153,Secondary / secondary special,Married,House / apartment,-17520,-8030,1,0,0,Private service staff,2
+5098605,F,Y,N,0,128138.5832445879,Higher education,Married,House / apartment,-11315,-7300,0,0,0,,2
+5303097,F,N,Y,2,451295.04032939655,Secondary / secondary special,Divorced,House / apartment,-16060,-4380,0,0,1,IT staff,4
+5765403,F,N,Y,1,345274.4448336195,Higher education,Civil marriage,House / apartment,-15695,-730,0,0,0,Drivers,3
+5727932,F,Y,Y,0,497360.3932652485,Higher education,Divorced,House / apartment,-22995,-5475,0,0,0,,2
+5519048,F,Y,Y,0,330603.91629080556,Higher education,Single / not married,House / apartment,-10950,365243,0,0,0,Sales staff,1
+5538356,M,Y,N,0,147888.91004291322,Secondary / secondary special,Widow,House / apartment,-10950,-365,1,0,0,Medicine staff,2
+5442079,F,Y,N,0,147543.18306442266,Higher education,Divorced,Co-op apartment,-23360,-5840,0,1,0,Accountants,2
+5421033,F,Y,Y,0,179255.97999742025,Secondary / secondary special,Single / not married,House / apartment,-8395,-365,1,0,0,Managers,2
+5185498,F,N,N,1,374134.7405287124,Secondary / secondary special,Widow,House / apartment,-19345,-2190,0,0,0,IT staff,2
+5062036,F,N,Y,0,128260.81408223575,Higher education,Divorced,House / apartment,-14965,-8395,1,1,0,Laborers,1
+5026706,M,N,N,1,165207.46983135722,Secondary / secondary special,Widow,Rented apartment,-12045,-6935,0,0,0,IT staff,3
+5178228,F,Y,N,1,161116.13594037353,Secondary / secondary special,Civil marriage,House / apartment,-13870,-5475,0,0,0,HR staff,3
+5265704,M,N,Y,0,210816.56960205946,Secondary / secondary special,Civil marriage,House / apartment,-8760,-2190,0,0,0,,2
+5198493,M,Y,Y,0,137435.5698324745,Incomplete higher,Divorced,House / apartment,-8395,-10220,0,0,0,Drivers,2
+5373298,M,Y,Y,0,345180.94379400584,Higher education,Divorced,House / apartment,-16425,-9490,0,0,1,Cleaning staff,2
+5836405,M,N,N,0,165206.25697258342,Secondary / secondary special,Civil marriage,House / apartment,-19345,-6935,0,0,0,Cooking staff,2
+5160613,F,Y,N,0,59740.89793308158,Secondary / secondary special,Divorced,House / apartment,-12775,-4745,0,1,0,Drivers,2
+5071972,M,N,N,0,359268.2181814437,Secondary / secondary special,Married,House / apartment,-22630,365243,0,0,0,Drivers,2
+5803048,F,N,N,1,295303.53379337257,Higher education,Single / not married,House / apartment,-20075,-7300,1,1,0,HR staff,3
+5045678,M,N,Y,1,133705.00429655213,Secondary / secondary special,Married,House / apartment,-22630,-5840,0,0,0,Medicine staff,3
+5599914,M,N,Y,1,103756.37045982959,Secondary / secondary special,Civil marriage,House / apartment,-23360,-5840,0,0,0,Managers,3
+5352277,F,Y,Y,0,54457.33781474876,Higher education,Divorced,Rented apartment,-11315,-8760,0,0,0,HR staff,2
+5458903,F,N,N,0,652947.6845184176,Higher education,Single / not married,House / apartment,-16060,-5840,0,1,0,Cleaning staff,1
+5777379,F,Y,N,0,110686.9956822245,Incomplete higher,Civil marriage,House / apartment,-18615,-4745,0,1,0,Cooking staff,2
+5841962,F,N,Y,0,137452.89162546376,Secondary / secondary special,Single / not married,House / apartment,-10585,-9490,0,0,0,Security staff,2
+5488708,M,Y,Y,0,63022.16276459075,Secondary / secondary special,Married,House / apartment,-14600,-4745,1,0,0,Security staff,2
+5360635,F,N,N,0,153413.23599749734,Secondary / secondary special,Married,House / apartment,-12045,0,0,0,0,Waiters/Barmen staff,2
+5384368,F,Y,Y,0,306485.95975561824,Secondary / secondary special,Single / not married,House / apartment,-8760,-8760,0,0,0,Managers,1
+5194702,F,Y,N,0,608489.1051621666,Secondary / secondary special,Divorced,House / apartment,-19710,-5110,1,0,0,Cooking staff,2
+5186262,M,Y,Y,3,193551.94609858093,Secondary / secondary special,Single / not married,House / apartment,-13505,-365,0,1,0,Cooking staff,5
+5743971,F,N,Y,0,117090.48498015729,Higher education,Single / not married,House / apartment,-18615,-5475,0,1,0,Secretaries,2
+5768294,M,Y,N,0,130669.53503852937,Higher education,Widow,House / apartment,-12775,-6570,1,1,0,Low-skill Laborers,2
+5394960,F,Y,Y,2,134381.2150611007,Higher education,Divorced,House / apartment,-19710,-6935,0,0,0,Secretaries,3
+5573357,F,N,Y,1,183569.20775379406,Secondary / secondary special,Single / not married,House / apartment,-14235,-10220,0,1,0,High skill tech staff,3
+5928829,F,Y,N,0,95631.89982001368,Higher education,Widow,House / apartment,-14600,-6205,0,0,0,High skill tech staff,2
+5852651,F,Y,Y,1,65474.638713455315,Incomplete higher,Divorced,House / apartment,-12410,0,1,0,0,Private service staff,3
+5736362,F,N,Y,0,117024.00084089993,Higher education,Divorced,House / apartment,-14235,-10585,0,1,0,IT staff,2
+5723092,M,N,Y,0,376505.5362369471,Higher education,Single / not married,House / apartment,-19710,-4380,0,0,0,Waiters/Barmen staff,1
+5496375,F,N,N,0,135407.59887056908,Higher education,Widow,House / apartment,-21535,-8030,0,0,0,Drivers,2
+5189080,M,N,Y,0,419747.55962812237,Secondary / secondary special,Civil marriage,Municipal apartment,-19345,365243,1,0,0,IT staff,1
+5829338,F,N,N,1,314902.29577603977,Secondary / secondary special,Widow,Rented apartment,-19345,-365,0,0,1,Security staff,3
+5414038,F,Y,N,1,274434.70741921803,Incomplete higher,Widow,House / apartment,-19710,-2555,0,1,0,Private service staff,2
+5773849,F,N,N,1,155349.7457691242,Secondary / secondary special,Single / not married,With parents,-22995,-9855,0,1,0,Realty agents,2
+5199527,M,Y,Y,0,156136.13148030196,Secondary / secondary special,Single / not married,House / apartment,-11315,-8760,0,0,0,,1
+5532186,M,Y,Y,1,271877.1880912821,Secondary / secondary special,Married,House / apartment,-13140,-4745,0,0,0,Accountants,3
+5920813,M,Y,Y,0,181661.27124939876,Secondary / secondary special,Civil marriage,House / apartment,-16425,-1460,0,0,0,Managers,1
+5935025,F,N,Y,0,101539.77614023109,Secondary / secondary special,Widow,With parents,-17520,365243,0,0,0,Medicine staff,2
+5514449,M,N,N,0,120526.98717425588,Higher education,Single / not married,House / apartment,-21535,-10585,0,0,0,Cooking staff,2
+5941565,M,Y,N,1,132478.36871262238,Higher education,Civil marriage,House / apartment,-14600,-8760,0,0,0,Cooking staff,2
+5158992,F,N,N,0,82035.17184902336,Secondary / secondary special,Widow,House / apartment,-7665,-1825,0,0,0,,2
+5995278,F,Y,N,1,339029.5713346264,Secondary / secondary special,Single / not married,House / apartment,-9125,-730,1,0,0,Core staff,3
+5607356,M,Y,N,0,75489.00795103906,Secondary / secondary special,Single / not married,House / apartment,-21900,-1460,0,0,0,Sales staff,2
+5567223,F,Y,N,0,316864.4338711923,Academic degree,Single / not married,House / apartment,-18980,-2555,0,0,0,Cleaning staff,1
+5924644,F,Y,Y,1,114342.09203350708,Secondary / secondary special,Divorced,House / apartment,-15330,-9125,0,0,0,Cooking staff,3
+5120646,M,Y,Y,2,58520.98498984886,Secondary / secondary special,Widow,House / apartment,-8030,-3650,0,0,0,Core staff,4
+5098150,M,Y,Y,0,333227.24668633105,Higher education,Civil marriage,Municipal apartment,-22265,0,1,0,0,Low-skill Laborers,2
+5740315,M,N,Y,0,142061.5273565967,Higher education,Divorced,House / apartment,-17520,-8030,0,0,0,Accountants,2
+5795486,M,Y,N,0,249163.9191553377,Secondary / secondary special,Single / not married,House / apartment,-21900,-10585,0,0,0,Secretaries,2
+5638308,M,N,N,0,112747.47681546712,Secondary / secondary special,Widow,House / apartment,-22630,-365,0,0,0,Core staff,2
+5859618,F,Y,N,0,283870.85786056425,Lower secondary,Single / not married,House / apartment,-10585,-5840,1,0,0,Private service staff,2
+5030320,M,Y,N,1,246006.1869541082,Secondary / secondary special,Married,House / apartment,-22630,-10585,0,1,0,Secretaries,2
+5622549,F,Y,N,0,166049.65950767475,Secondary / secondary special,Civil marriage,House / apartment,-12410,-6570,0,0,0,High skill tech staff,2
+5027963,M,N,N,0,325937.2908452334,Secondary / secondary special,Civil marriage,House / apartment,-10220,-9855,0,1,0,HR staff,2
+5896187,M,Y,N,0,158489.5765281033,Secondary / secondary special,Single / not married,House / apartment,-14600,-2190,1,0,0,Cleaning staff,2
+5528532,M,Y,N,0,316065.44013592444,Secondary / secondary special,Married,House / apartment,-16060,-10220,0,0,0,Low-skill Laborers,2
+5091197,F,Y,Y,2,108999.2703002448,Incomplete higher,Single / not married,House / apartment,-9125,-3650,0,0,0,High skill tech staff,4
+5644427,F,N,Y,0,248722.71829779487,Secondary / secondary special,Single / not married,House / apartment,-22265,-5110,0,0,1,Security staff,2
+5361512,F,N,Y,1,65794.33872409075,Secondary / secondary special,Single / not married,House / apartment,-9855,365243,0,0,0,Private service staff,3
+5705985,M,Y,Y,0,87042.85872424177,Secondary / secondary special,Single / not married,House / apartment,-21535,-8395,0,0,0,Medicine staff,2
+5735052,F,Y,Y,1,82904.64695240432,Secondary / secondary special,Single / not married,House / apartment,-14965,-2190,0,1,0,IT staff,3
+5015920,M,N,Y,1,157244.82946588864,Secondary / secondary special,Married,House / apartment,-22265,-4380,1,0,0,Low-skill Laborers,3
+5871823,M,Y,N,0,289802.6536367723,Secondary / secondary special,Married,House / apartment,-17155,-9490,0,1,0,IT staff,2
+5346148,F,Y,Y,0,126756.6326878544,Secondary / secondary special,Married,House / apartment,-15695,365243,0,0,0,Sales staff,2
+5597098,M,Y,Y,0,297913.156961548,Secondary / secondary special,Civil marriage,House / apartment,-12410,-7300,0,1,0,Private service staff,2
+5306873,F,N,N,0,67275.35208825853,Higher education,Single / not married,House / apartment,-21535,-2190,1,1,1,Core staff,2
+5909952,F,N,N,0,242335.87501239654,Higher education,Civil marriage,House / apartment,-7665,-5475,1,0,1,Waiters/Barmen staff,2
+5950086,F,N,Y,0,147481.0782746038,Higher education,Civil marriage,House / apartment,-19345,-730,0,0,0,Accountants,2
+5759040,F,N,Y,0,207134.53982155875,Secondary / secondary special,Civil marriage,House / apartment,-18615,365243,0,0,0,Cooking staff,2
+5462525,M,Y,Y,1,143956.7295184454,Secondary / secondary special,Widow,House / apartment,-12775,-6570,0,0,0,Sales staff,2
+5662244,F,Y,Y,1,132786.98715917155,Higher education,Divorced,House / apartment,-18250,-5475,0,0,0,Secretaries,3
+5696212,F,N,N,0,79880.52125035686,Higher education,Divorced,House / apartment,-12045,365243,0,0,0,Laborers,2
+5141887,F,Y,N,0,69594.646216592,Higher education,Divorced,House / apartment,-15330,-9490,0,1,1,Core staff,2
+5604824,F,Y,Y,0,136178.3644184042,Incomplete higher,Divorced,House / apartment,-16060,365243,0,0,0,,2
+5584242,F,N,Y,0,114530.46606191876,Higher education,Widow,House / apartment,-14600,-7300,0,0,0,Cleaning staff,2
+5143248,M,N,Y,0,550826.8469388436,Higher education,Divorced,Municipal apartment,-16790,-7300,0,0,0,Medicine staff,2
+5455701,F,N,Y,0,196486.0180099174,Secondary / secondary special,Widow,House / apartment,-13140,-5840,0,0,0,Private service staff,2
+5122338,F,Y,N,1,363296.2243400538,Higher education,Divorced,House / apartment,-22995,-6205,1,0,0,,3
+5716008,M,Y,N,0,94061.11805508708,Secondary / secondary special,Single / not married,House / apartment,-8760,-6570,0,1,0,Accountants,2
+5653636,M,Y,N,0,85510.10048717745,Secondary / secondary special,Divorced,House / apartment,-11315,-5475,0,0,0,Private service staff,2
+5358747,M,Y,N,0,138603.4774560359,Higher education,Married,With parents,-17520,-3285,1,0,0,Drivers,1
+5974038,M,Y,N,0,139235.4167122357,Secondary / secondary special,Divorced,House / apartment,-8760,-3285,0,0,0,Laborers,2
+5321779,M,Y,N,0,240047.83081218344,Higher education,Married,Co-op apartment,-9125,-2190,1,1,0,Core staff,1
+5540478,F,Y,N,1,246635.76718433495,Secondary / secondary special,Widow,Rented apartment,-8030,-8760,0,0,0,Low-skill Laborers,3
+5751996,F,Y,Y,0,165602.65015277808,Higher education,Single / not married,House / apartment,-22630,-6570,0,0,0,Cooking staff,2
+5183568,M,N,N,0,145684.7968187589,Higher education,Single / not married,House / apartment,-18615,-8760,0,0,1,Core staff,2
+5749753,M,Y,N,1,328516.2015992994,Secondary / secondary special,Civil marriage,House / apartment,-18615,-365,0,1,0,Private service staff,3
+5568228,F,Y,Y,0,222147.9036288465,Higher education,Single / not married,House / apartment,-12410,-1095,0,0,0,Cooking staff,1
+5119619,F,Y,N,2,191104.99441808066,Higher education,Married,House / apartment,-10950,-4380,0,0,0,Medicine staff,3
+5861634,F,N,Y,0,121053.28262250776,Secondary / secondary special,Married,House / apartment,-12410,-9490,0,0,0,Realty agents,2
+5780381,F,N,N,0,95014.81073569765,Incomplete higher,Married,House / apartment,-20440,-2920,1,1,0,Waiters/Barmen staff,2
+5252026,M,Y,N,0,162136.3294605645,Lower secondary,Single / not married,House / apartment,-12410,-5840,0,0,0,Low-skill Laborers,1
+5394957,F,N,Y,2,104195.68513623839,Higher education,Single / not married,House / apartment,-20440,-1095,0,0,0,Medicine staff,3
+5542972,M,N,N,0,90587.99131669478,Secondary / secondary special,Married,Municipal apartment,-21900,-2920,0,0,0,Secretaries,2
+5648861,M,N,Y,0,271018.0469371506,Secondary / secondary special,Widow,House / apartment,-8395,-8760,0,1,0,Cleaning staff,2
+5298012,M,Y,N,0,150781.8112894365,Secondary / secondary special,Married,House / apartment,-12045,-8760,0,0,0,,1
+5285675,F,Y,Y,0,148632.84232698687,Secondary / secondary special,Single / not married,House / apartment,-8395,-3285,0,1,0,Security staff,1
+5961338,F,N,N,0,110718.79562812444,Secondary / secondary special,Civil marriage,Municipal apartment,-16060,365243,0,0,0,,1
+5432371,F,Y,Y,0,122151.0924263455,Secondary / secondary special,Widow,House / apartment,-9125,-9855,0,1,0,,2
+5307798,M,N,N,0,101418.50318353264,Secondary / secondary special,Divorced,House / apartment,-14235,-7665,0,0,0,IT staff,2
+5373280,M,N,Y,0,243117.35287872262,Secondary / secondary special,Widow,House / apartment,-16425,365243,0,0,0,Private service staff,1
+5648368,F,N,N,0,82265.36140115507,Higher education,Widow,House / apartment,-19345,-4380,0,0,0,HR staff,2
+5049623,M,Y,N,0,230891.28172030204,Secondary / secondary special,Single / not married,House / apartment,-11680,-9490,0,0,0,Sales staff,1
+5330566,F,N,N,0,154974.35575131964,Secondary / secondary special,Divorced,House / apartment,-22995,-5110,1,1,0,Sales staff,2
+5580403,M,Y,Y,0,137485.28295128475,Incomplete higher,Married,With parents,-18615,365243,0,1,1,Laborers,2
+5148484,M,Y,Y,0,165839.34817434123,Secondary / secondary special,Widow,House / apartment,-9125,-7665,0,0,0,Laborers,1
+5696239,F,N,N,2,282105.738778519,Secondary / secondary special,Single / not married,Rented apartment,-9125,-730,0,0,0,Accountants,4
+5489113,M,Y,Y,1,81832.70110688578,Higher education,Married,Municipal apartment,-20440,-2920,0,0,0,Low-skill Laborers,3
+5964938,M,N,Y,2,112664.96137028246,Secondary / secondary special,Widow,House / apartment,-11315,-9855,0,0,0,IT staff,3
+5352951,F,Y,N,0,204012.16689550917,Secondary / secondary special,Married,House / apartment,-14965,0,0,0,0,Accountants,2
+5214217,F,N,N,0,219301.92691425508,Secondary / secondary special,Divorced,House / apartment,-9490,-1095,0,0,0,Managers,1
+5043274,F,Y,Y,0,185952.2630572564,Secondary / secondary special,Civil marriage,Municipal apartment,-12775,-1825,0,0,0,Low-skill Laborers,2
+5762639,M,N,Y,2,129606.17011711965,Secondary / secondary special,Widow,House / apartment,-8030,-3285,0,0,0,Cooking staff,4
+5480989,M,Y,N,0,144688.82149674356,Higher education,Civil marriage,House / apartment,-16790,-9855,0,0,1,Managers,2
+5125145,F,N,Y,0,81895.51887298502,Secondary / secondary special,Single / not married,House / apartment,-17155,-3285,0,0,0,HR staff,2
+5655616,F,N,N,0,163864.34676061868,Secondary / secondary special,Civil marriage,With parents,-21900,365243,1,0,0,Core staff,2
+5522840,M,Y,N,1,176077.80544728792,Secondary / secondary special,Widow,House / apartment,-13505,-5475,0,0,0,,3
+5696590,M,N,Y,0,145166.94272035346,Secondary / secondary special,Single / not married,House / apartment,-8030,-4745,0,0,0,Core staff,2
+5113387,F,Y,N,0,243621.7901098603,Secondary / secondary special,Married,House / apartment,-13870,-7300,0,1,0,Low-skill Laborers,2
+5590299,F,Y,N,0,119365.68129096972,Secondary / secondary special,Divorced,House / apartment,-23360,365243,1,0,0,Accountants,2
+5696607,M,N,Y,0,179939.7206159233,Secondary / secondary special,Widow,House / apartment,-19710,-9125,0,0,0,IT staff,2
+5592287,F,Y,Y,0,74521.55849156706,Lower secondary,Divorced,Rented apartment,-16425,-3650,0,0,0,Core staff,2
+5340741,F,N,N,0,384966.55485387816,Incomplete higher,Single / not married,House / apartment,-22265,-2555,0,1,0,Cleaning staff,2
+5184780,M,Y,N,0,175620.43739564295,Higher education,Married,House / apartment,-8395,-5110,0,1,0,Realty agents,2
+5723570,M,Y,Y,0,161199.92260165283,Secondary / secondary special,Civil marriage,House / apartment,-16425,-2190,0,0,0,Core staff,2
+5698252,M,N,Y,0,175819.9671169774,Incomplete higher,Divorced,With parents,-15695,-4745,0,0,1,Accountants,1
+5948560,M,Y,Y,0,121491.6748770635,Higher education,Divorced,House / apartment,-15695,-1460,0,0,0,Cooking staff,2
+5487424,M,N,N,0,125032.09241434332,Secondary / secondary special,Widow,House / apartment,-8760,-4380,0,0,0,Realty agents,1
+5326075,M,N,Y,0,182009.89955765233,Secondary / secondary special,Widow,House / apartment,-18250,-8760,0,0,0,Realty agents,2
+5778659,M,Y,Y,0,124715.59256625577,Secondary / secondary special,Married,House / apartment,-21535,0,0,0,0,Waiters/Barmen staff,1
+5661039,M,N,Y,0,157890.34788090907,Secondary / secondary special,Divorced,House / apartment,-17885,-9125,0,0,0,Security staff,2
+5684660,M,Y,N,0,151389.5362630991,Incomplete higher,Civil marriage,House / apartment,-12410,-8760,1,1,0,Drivers,1
+5013373,F,N,N,0,103495.13076926781,Higher education,Married,House / apartment,-8760,-2190,0,0,0,Laborers,1
+5995315,M,N,Y,1,59902.32677118432,Higher education,Single / not married,House / apartment,-22995,-6570,0,0,0,Waiters/Barmen staff,3
+5259361,F,Y,Y,1,197581.7033422755,Incomplete higher,Single / not married,House / apartment,-9855,365243,0,0,0,High skill tech staff,3
+5737970,M,N,N,1,51801.970333744226,Higher education,Civil marriage,House / apartment,-14235,-365,0,0,0,IT staff,2
+5708091,F,Y,N,1,203678.94622205262,Secondary / secondary special,Married,House / apartment,-18980,-8395,0,0,0,Managers,3
+5490877,M,N,N,0,139089.59405137593,Secondary / secondary special,Married,House / apartment,-22630,365243,1,1,0,Sales staff,2
+5466439,F,N,Y,1,223377.27013208836,Higher education,Single / not married,House / apartment,-19345,-3650,0,0,0,Security staff,3
+5944951,M,Y,Y,0,113261.53307281865,Secondary / secondary special,Divorced,House / apartment,-14235,-2190,0,0,0,Low-skill Laborers,2
+5719756,M,Y,Y,3,185878.8743715558,Secondary / secondary special,Married,House / apartment,-8760,-1095,0,0,0,Cleaning staff,5
+5134216,M,Y,N,0,358747.6173928068,Secondary / secondary special,Divorced,House / apartment,-13870,365243,0,1,0,,2
+5145154,F,N,Y,0,70827.57028754996,Higher education,Widow,House / apartment,-12410,-3285,0,0,0,Medicine staff,2
+5527356,F,N,Y,0,83879.44396952343,Higher education,Single / not married,House / apartment,-11315,-4015,0,0,1,Cleaning staff,1
+5652555,M,Y,Y,1,71579.09585044628,Higher education,Married,House / apartment,-7665,-1460,1,0,0,Private service staff,3
+5792577,M,N,Y,1,244606.4291764211,Secondary / secondary special,Divorced,Co-op apartment,-17885,-3285,0,0,0,HR staff,3
+5965854,F,Y,Y,0,126985.49987487594,Secondary / secondary special,Married,House / apartment,-8395,365243,0,0,0,High skill tech staff,1
+5304682,M,N,N,1,143180.85545355125,Secondary / secondary special,Civil marriage,Municipal apartment,-21170,-9855,0,1,0,Core staff,2
+5902072,F,Y,Y,0,125767.51748292295,Secondary / secondary special,Civil marriage,With parents,-21535,-7300,0,1,0,Private service staff,2
+5602844,F,Y,N,1,121542.14108557011,Higher education,Single / not married,House / apartment,-16060,-9490,0,0,0,Cleaning staff,3
+5813896,M,Y,N,2,256969.18680780835,Higher education,Divorced,House / apartment,-16425,-4015,1,0,0,Medicine staff,4
+5728235,F,Y,N,0,55641.36214473674,Higher education,Divorced,House / apartment,-18615,-9490,0,0,0,IT staff,2
+5630161,M,N,N,0,240919.55853321534,Secondary / secondary special,Single / not married,Co-op apartment,-22630,-6570,0,0,1,,2
+5789555,F,Y,Y,0,123756.99810657138,Secondary / secondary special,Divorced,House / apartment,-16425,-2555,0,0,0,High skill tech staff,2
+5762141,M,Y,Y,0,175746.77906638486,Secondary / secondary special,Divorced,Municipal apartment,-11680,365243,0,1,0,Secretaries,2
+5602327,F,Y,N,0,163496.65587008366,Secondary / secondary special,Widow,House / apartment,-18250,-2190,0,0,0,Low-skill Laborers,2
+5858787,F,N,N,1,194543.28861412348,Incomplete higher,Civil marriage,House / apartment,-12775,-9855,0,0,0,Secretaries,2
+5385483,M,N,Y,0,306308.1506516867,Higher education,Widow,House / apartment,-16425,-5840,0,0,1,Secretaries,1
+5474811,F,Y,Y,0,323250.9105221323,Higher education,Civil marriage,Municipal apartment,-11315,-6935,0,0,0,Cooking staff,2
+5550033,F,Y,Y,0,96609.94254794589,Incomplete higher,Married,House / apartment,-11315,0,1,0,0,HR staff,2
+5573558,F,Y,N,3,173921.3786482877,Secondary / secondary special,Divorced,House / apartment,-14965,-6570,1,0,1,Low-skill Laborers,4
+5329038,M,N,N,0,103785.41344664528,Secondary / secondary special,Widow,House / apartment,-19345,-8760,0,0,0,Accountants,2
+5642788,F,N,Y,0,79675.49635892043,Secondary / secondary special,Widow,House / apartment,-9490,-1460,0,1,0,Private service staff,2
+5576649,F,Y,N,0,65553.02134938048,Secondary / secondary special,Single / not married,House / apartment,-15695,-3650,0,0,0,Cooking staff,2
+5578365,M,N,N,0,173324.4566812407,Secondary / secondary special,Civil marriage,House / apartment,-14600,-1095,0,1,0,Laborers,2
+5857348,F,N,Y,0,205440.73483502044,Secondary / secondary special,Divorced,House / apartment,-14235,-4380,0,1,0,High skill tech staff,2
+5284921,F,Y,N,1,149099.64973240337,Secondary / secondary special,Widow,House / apartment,-21900,-3650,0,0,0,Managers,3
+5013996,M,Y,Y,0,30158.815817800656,Incomplete higher,Divorced,House / apartment,-18980,-5840,1,0,0,Waiters/Barmen staff,2
+5501169,F,N,N,0,119076.60482157921,Incomplete higher,Civil marriage,Rented apartment,-17155,-10220,0,0,0,Accountants,2
+5018042,M,Y,N,0,68297.81978255168,Higher education,Widow,House / apartment,-8030,-8030,0,1,0,Accountants,2
+5292258,M,Y,Y,1,277603.2377737433,Higher education,Widow,With parents,-22630,-1825,0,0,1,Realty agents,3
+5003918,M,N,N,2,172725.0563095087,Secondary / secondary special,Single / not married,Rented apartment,-13140,-6935,1,0,0,Managers,4
+5014062,M,Y,Y,0,153682.5860969835,Secondary / secondary special,Married,House / apartment,-22995,-7300,0,1,0,Cooking staff,2
+5817044,F,Y,N,0,218695.45536595344,Higher education,Civil marriage,House / apartment,-12775,-9125,0,1,0,Managers,1
+5809181,F,N,N,0,94294.96171561438,Higher education,Married,House / apartment,-13140,-6205,0,0,0,Cleaning staff,2
+5403044,M,N,Y,1,221601.44656179642,Higher education,Widow,House / apartment,-11680,365243,0,1,0,Secretaries,3
+5627980,M,N,Y,0,283418.26729711716,Secondary / secondary special,Divorced,House / apartment,-21535,-1460,0,0,0,Secretaries,1
+5384262,M,Y,N,0,133188.7697368099,Secondary / secondary special,Married,House / apartment,-17885,-4745,0,1,0,IT staff,1
+5249054,M,N,N,0,133461.95110722593,Secondary / secondary special,Divorced,House / apartment,-10220,-3285,0,0,0,IT staff,2
+5067298,M,Y,Y,1,173295.14564746097,Incomplete higher,Divorced,House / apartment,-9490,-9855,1,0,0,Medicine staff,3
+5339778,F,Y,Y,1,187439.4692170333,Secondary / secondary special,Married,House / apartment,-12775,-1095,0,0,1,Sales staff,3
+5853198,M,Y,N,0,282196.9456878021,Higher education,Widow,Rented apartment,-14965,-7300,1,0,0,Realty agents,2
+5171973,F,Y,Y,1,83917.8800383077,Secondary / secondary special,Civil marriage,House / apartment,-7665,-9125,0,1,0,Core staff,3
+5330756,M,Y,N,1,152322.25219652863,Higher education,Divorced,House / apartment,-18615,-2920,0,1,0,Low-skill Laborers,3
+5313679,M,N,Y,0,70754.72047216963,Secondary / secondary special,Civil marriage,House / apartment,-10220,-6205,0,0,0,Drivers,2
+5081095,F,Y,Y,1,346352.4587490011,Secondary / secondary special,Single / not married,House / apartment,-17520,-9125,0,0,0,,2
+5082748,M,Y,Y,0,118485.30369160052,Lower secondary,Single / not married,House / apartment,-21900,-8030,0,1,0,IT staff,1
+5139686,M,N,N,0,222547.52096859584,Secondary / secondary special,Married,With parents,-18615,-1460,0,1,0,Drivers,1
+5489619,F,Y,N,1,241303.57950623438,Secondary / secondary special,Widow,House / apartment,-16790,0,0,0,0,Laborers,3
+5506531,M,N,N,0,102417.18103208611,Secondary / secondary special,Married,House / apartment,-12045,-2920,0,0,0,Accountants,2
+5358723,M,N,Y,0,191127.10095481476,Secondary / secondary special,Divorced,Rented apartment,-12045,-10585,0,1,0,Low-skill Laborers,2
+5779454,F,Y,N,0,138210.5710546186,Secondary / secondary special,Divorced,House / apartment,-11680,-8395,0,0,0,Accountants,2
+5633777,M,N,N,0,182331.58251471928,Secondary / secondary special,Civil marriage,House / apartment,-18615,-4380,0,1,0,Security staff,2
+5183513,M,Y,Y,0,79346.91798604483,Higher education,Single / not married,House / apartment,-20805,365243,0,0,0,Accountants,2
+5033224,M,Y,Y,1,177935.4649262595,Secondary / secondary special,Widow,House / apartment,-16425,-4015,1,0,0,Medicine staff,3
+5567095,M,N,Y,0,187521.78553551208,Secondary / secondary special,Civil marriage,House / apartment,-17885,365243,0,0,0,IT staff,1
+5819653,M,N,N,0,364410.7704085032,Secondary / secondary special,Civil marriage,House / apartment,-17885,365243,1,0,0,Security staff,1
+5653119,M,N,Y,0,690269.0369661744,Higher education,Civil marriage,House / apartment,-10585,-3285,1,0,0,Sales staff,2
+5182395,M,N,N,0,80726.33547116403,Incomplete higher,Single / not married,House / apartment,-13505,-4745,1,0,0,Drivers,2
+5052402,M,Y,N,0,180946.47942130448,Secondary / secondary special,Married,House / apartment,-22265,-4015,0,1,0,Accountants,1
+5605877,M,Y,N,1,248698.01766438075,Secondary / secondary special,Civil marriage,With parents,-19345,0,0,0,1,HR staff,3
+5505602,M,Y,Y,0,225206.99354381193,Higher education,Married,House / apartment,-7665,-10585,0,0,1,High skill tech staff,2
+5127888,F,Y,N,1,302472.0828464725,Secondary / secondary special,Divorced,House / apartment,-13140,-2555,1,0,0,High skill tech staff,2
+5084894,M,N,N,1,194337.3408480113,Secondary / secondary special,Civil marriage,House / apartment,-16425,-730,0,0,0,IT staff,3
+5058835,F,N,N,0,60639.227147272395,Secondary / secondary special,Divorced,House / apartment,-16425,-9855,0,0,0,Medicine staff,2
+5510616,M,N,N,2,259797.15211554497,Higher education,Single / not married,House / apartment,-10950,-6205,0,0,1,Waiters/Barmen staff,4
+5217160,M,N,Y,0,219828.5974579368,Secondary / secondary special,Civil marriage,House / apartment,-13870,0,0,0,0,Sales staff,2
+5751171,M,N,N,0,79430.92320954229,Incomplete higher,Single / not married,House / apartment,-22265,-6935,0,0,0,Medicine staff,2
+5793421,F,N,N,0,110066.33577782454,Academic degree,Civil marriage,House / apartment,-21535,-2920,0,0,0,Core staff,1
+5742364,M,N,Y,0,222338.82339405557,Lower secondary,Divorced,House / apartment,-8395,365243,1,0,1,High skill tech staff,1
+5423383,M,N,Y,1,264591.2587828375,Secondary / secondary special,Married,House / apartment,-9855,-1460,0,0,0,Cleaning staff,2
+5408080,M,Y,N,1,201445.86131634127,Secondary / secondary special,Civil marriage,House / apartment,-10950,-10220,1,1,0,,3
+5151111,F,Y,Y,1,193796.65058601834,Higher education,Civil marriage,House / apartment,-13140,-2920,0,0,0,Managers,3
+5337357,F,Y,Y,0,264280.69652939955,Incomplete higher,Married,House / apartment,-19710,-10585,0,0,0,Secretaries,1
+5512476,M,N,Y,0,222192.13980219627,Secondary / secondary special,Married,Co-op apartment,-22995,-1460,0,0,0,Waiters/Barmen staff,2
+5273907,F,N,Y,1,114405.9654217132,Higher education,Civil marriage,House / apartment,-18250,365243,0,1,0,Realty agents,3
+5173546,F,Y,N,0,370057.81064626627,Secondary / secondary special,Civil marriage,House / apartment,-14600,-2555,0,1,0,Sales staff,2
+5763198,F,N,N,1,251569.0112034674,Higher education,Widow,House / apartment,-21535,-7665,1,1,0,Medicine staff,3
+5474533,F,N,Y,0,242515.75127241912,Secondary / secondary special,Single / not married,House / apartment,-10585,-9855,1,0,0,Core staff,1
+5096436,F,Y,Y,1,110579.72701442095,Incomplete higher,Single / not married,House / apartment,-14965,-3285,0,0,1,Laborers,3
+5456078,F,Y,N,0,62410.56267498123,Incomplete higher,Divorced,With parents,-10220,-5475,1,0,0,Security staff,2
+5547703,F,N,N,0,440738.326616851,Secondary / secondary special,Widow,House / apartment,-23360,-2555,0,0,0,IT staff,2
+5138801,F,Y,N,0,215717.32267224556,Higher education,Civil marriage,House / apartment,-18250,-365,0,0,0,HR staff,2
+5198505,F,N,N,0,307503.0640888478,Secondary / secondary special,Widow,House / apartment,-14600,-1825,0,0,0,Accountants,2
+5387672,F,N,N,0,186772.41768561635,Secondary / secondary special,Single / not married,With parents,-19710,-730,0,0,0,IT staff,2
+5939605,M,N,N,0,180138.12553563458,Higher education,Divorced,House / apartment,-18980,-5110,0,0,0,Realty agents,2
+5234036,M,Y,N,0,72806.60415637614,Secondary / secondary special,Single / not married,House / apartment,-12775,-10585,0,0,0,Sales staff,2
+5785555,M,N,N,0,187043.69934256046,Secondary / secondary special,Divorced,House / apartment,-21535,-730,0,0,0,Sales staff,1
+5254292,M,Y,Y,0,232922.50942144316,Higher education,Married,House / apartment,-19710,-365,0,0,0,Drivers,2
+5780364,F,N,N,0,221326.17194642802,Secondary / secondary special,Divorced,House / apartment,-15330,-4380,0,1,0,IT staff,1
+5363263,F,Y,N,0,298579.40950163425,Secondary / secondary special,Married,House / apartment,-16790,-1460,0,0,1,HR staff,2
+5136059,F,N,N,0,276564.920423263,Incomplete higher,Widow,House / apartment,-13505,-10585,0,0,0,Sales staff,2
+5051564,M,N,N,0,168499.73437756134,Secondary / secondary special,Widow,With parents,-14965,-8030,0,0,0,HR staff,2
+5008717,M,N,N,0,72286.52354199156,Higher education,Divorced,House / apartment,-7665,-3285,0,1,0,Accountants,2
+5835419,F,N,N,1,53909.32739370783,Secondary / secondary special,Single / not married,House / apartment,-22995,-5475,0,1,0,Security staff,3
+5771749,F,Y,Y,0,164878.80537194118,Incomplete higher,Widow,House / apartment,-21900,-2920,0,0,0,Core staff,2
+5778958,M,Y,Y,0,83085.39868676044,Secondary / secondary special,Single / not married,Rented apartment,-17155,-8030,1,1,0,Core staff,2
+5864372,M,N,Y,0,43010.42179104852,Secondary / secondary special,Single / not married,House / apartment,-14965,-6570,0,1,0,High skill tech staff,2
+5086459,M,Y,Y,0,351994.740158073,Secondary / secondary special,Single / not married,House / apartment,-13870,-4745,1,0,0,Cleaning staff,2
+5257326,M,Y,Y,1,740116.2626875945,Higher education,Single / not married,House / apartment,-10585,-7300,0,0,0,IT staff,3
+5130277,F,N,N,0,95250.75815793483,Incomplete higher,Married,House / apartment,-18980,-4745,1,1,0,Core staff,2
+5947556,F,N,N,0,210055.45582588395,Higher education,Married,House / apartment,-22995,-9125,0,1,0,Security staff,2
+5182431,M,Y,N,1,209845.22471190212,Secondary / secondary special,Single / not married,House / apartment,-14600,-8395,0,0,1,Sales staff,3
+5092376,F,Y,Y,0,157132.74030718798,Higher education,Widow,With parents,-12410,-1825,0,0,0,Realty agents,2
+5971065,F,Y,Y,1,50106.062949208186,Higher education,Widow,House / apartment,-15695,-9125,0,1,0,Realty agents,3
+5393608,M,Y,N,0,261083.54609549625,Higher education,Divorced,House / apartment,-11315,365243,0,1,0,Cleaning staff,1
+5105758,M,Y,N,0,190797.5245196672,Secondary / secondary special,Widow,House / apartment,-21535,-1460,0,1,0,High skill tech staff,2
+5494034,M,N,Y,1,274822.15456658334,Higher education,Widow,House / apartment,-22630,-5475,0,0,0,HR staff,3
+5287574,F,Y,Y,1,50022.84559686817,Secondary / secondary special,Widow,House / apartment,-13140,-5110,0,0,0,Security staff,2
+5920623,F,Y,Y,2,342066.6268721424,Secondary / secondary special,Widow,House / apartment,-7665,-365,0,0,0,,3
+5116592,F,Y,N,1,156954.20823535428,Lower secondary,Single / not married,House / apartment,-10950,-5840,0,0,0,Cleaning staff,3
+5924238,F,Y,Y,0,249135.94143122662,Incomplete higher,Divorced,House / apartment,-19345,-9125,0,0,0,Laborers,1
+5305340,M,Y,Y,0,308501.8441043077,Secondary / secondary special,Civil marriage,House / apartment,-16060,-10220,0,0,0,HR staff,2
+5057393,F,Y,N,0,92994.8793761062,Higher education,Civil marriage,Rented apartment,-17155,-4015,0,0,0,Waiters/Barmen staff,1
+5467427,F,N,N,0,165490.76690197282,Secondary / secondary special,Divorced,Municipal apartment,-17885,-7300,0,0,0,Cooking staff,2
+5752403,F,N,Y,0,139678.78143670826,Secondary / secondary special,Civil marriage,House / apartment,-18615,-2555,0,1,0,Secretaries,1
+5999560,F,N,N,0,208522.96803182457,Secondary / secondary special,Civil marriage,House / apartment,-14600,365243,0,0,0,Low-skill Laborers,1
+5340825,M,N,Y,0,275396.84499601246,Secondary / secondary special,Civil marriage,House / apartment,-13505,-1460,0,1,0,Laborers,2
+5037915,M,N,N,0,142081.81535976924,Secondary / secondary special,Single / not married,House / apartment,-11315,-4745,0,0,0,Medicine staff,1
+5681605,M,N,N,0,105306.55948031027,Secondary / secondary special,Divorced,House / apartment,-18615,-6205,0,0,0,Sales staff,2
+5585984,M,Y,Y,0,211966.37115794147,Higher education,Divorced,House / apartment,-18980,-6570,0,0,0,IT staff,2
+5918230,M,N,N,0,349369.3649311212,Secondary / secondary special,Single / not married,House / apartment,-12410,-10585,0,0,0,Waiters/Barmen staff,1
+5806084,M,Y,N,0,197064.90915741498,Secondary / secondary special,Single / not married,Rented apartment,-14965,-4015,0,0,0,Cleaning staff,2
+5717036,M,Y,Y,0,273107.5987863968,Incomplete higher,Civil marriage,House / apartment,-13505,-8395,0,1,0,Medicine staff,1
+5649112,M,Y,N,0,104390.58888693865,Higher education,Divorced,House / apartment,-21535,-4015,0,1,0,Medicine staff,2
+5455034,M,N,N,0,111971.43016264359,Secondary / secondary special,Civil marriage,House / apartment,-17520,-365,0,0,0,Low-skill Laborers,2
+5166473,F,N,N,2,185257.20453583184,Secondary / secondary special,Married,House / apartment,-9490,-6935,0,0,0,Accountants,4
+5646512,M,Y,N,0,258889.39572609737,Higher education,Divorced,House / apartment,-12410,-1825,1,0,0,Realty agents,2
+5337830,F,N,Y,1,130568.54550633708,Incomplete higher,Civil marriage,House / apartment,-18250,-8760,0,1,0,Sales staff,3
+5030375,F,N,N,0,248185.416880365,Secondary / secondary special,Married,House / apartment,-10585,0,1,0,1,Medicine staff,2
+5064290,F,N,Y,0,120574.71427134053,Higher education,Single / not married,Office apartment,-17155,-8760,1,1,0,Medicine staff,2
+5405715,F,N,N,0,49299.459032206556,Higher education,Civil marriage,House / apartment,-11315,-6570,1,0,0,Drivers,2
+5139427,F,Y,N,0,227367.27576339955,Secondary / secondary special,Widow,House / apartment,-10585,365243,0,0,0,Laborers,2
+5507442,M,Y,Y,0,254966.0583699785,Secondary / secondary special,Single / not married,House / apartment,-21170,-365,0,1,0,Medicine staff,1
+5132693,M,Y,Y,0,99178.38750694765,Higher education,Civil marriage,House / apartment,-19345,-1095,0,0,1,Medicine staff,2
+5936791,M,N,Y,2,304532.2144470606,Incomplete higher,Single / not married,House / apartment,-16425,-5840,0,0,0,Managers,4
+5513268,M,N,Y,2,124612.56235735718,Secondary / secondary special,Widow,House / apartment,-17520,0,0,0,0,HR staff,4
+5742336,F,Y,N,0,146637.4837979719,Secondary / secondary special,Widow,Rented apartment,-22995,-3650,1,1,0,Medicine staff,1
+5721135,M,Y,Y,1,251048.22338220602,Secondary / secondary special,Single / not married,House / apartment,-17155,-8760,0,0,0,,3
+5751313,M,N,N,0,106711.04654736677,Higher education,Single / not married,House / apartment,-8030,365243,0,0,0,IT staff,1
+5166877,F,N,Y,1,216166.06100496845,Secondary / secondary special,Single / not married,Municipal apartment,-18250,-8395,0,0,0,Accountants,3
+5023285,M,N,N,0,135656.79686130836,Secondary / secondary special,Widow,House / apartment,-13505,-2920,0,0,0,Laborers,2
+5510044,F,Y,N,1,65627.8385592364,Higher education,Widow,House / apartment,-15330,-4015,0,1,0,High skill tech staff,3
+5253943,F,Y,N,0,255517.59270739838,Incomplete higher,Divorced,House / apartment,-21900,-5840,0,0,0,Medicine staff,1
+5903553,M,Y,N,0,59678.37550954018,Secondary / secondary special,Civil marriage,With parents,-9125,-6935,1,0,0,Realty agents,2
+5166604,F,Y,N,0,531126.5383626553,Secondary / secondary special,Divorced,House / apartment,-16790,0,0,1,0,HR staff,2
+5158683,M,N,Y,0,109029.0656263843,Incomplete higher,Divorced,House / apartment,-15330,-3285,0,0,0,Low-skill Laborers,2
+5395978,F,N,Y,0,63384.167568512064,Higher education,Widow,With parents,-8760,-2555,1,1,0,Waiters/Barmen staff,2
+5009954,M,N,Y,0,73337.12135422698,Secondary / secondary special,Widow,House / apartment,-14965,-5110,0,1,0,Managers,2
+5855214,F,N,Y,1,89966.38579557033,Higher education,Single / not married,House / apartment,-18980,-7300,0,0,0,Cleaning staff,3
+5630091,F,N,N,1,59838.7217680195,Incomplete higher,Single / not married,House / apartment,-12410,-10585,0,0,0,Laborers,2
+5761263,M,Y,N,0,150643.78744202942,Secondary / secondary special,Single / not married,With parents,-16425,-6935,0,0,0,Drivers,2
+5108149,F,N,Y,0,70199.88452454598,Secondary / secondary special,Single / not married,House / apartment,-23360,-8030,0,0,0,Cleaning staff,2
+5349138,M,Y,Y,0,267498.1022742067,Secondary / secondary special,Civil marriage,House / apartment,-21900,-3285,0,0,0,Secretaries,2
+5987780,F,N,Y,0,82224.10125142428,Secondary / secondary special,Married,House / apartment,-10950,-730,0,0,0,,2
+5804754,F,Y,Y,0,99158.99090098082,Secondary / secondary special,Married,House / apartment,-20075,-4745,1,0,1,High skill tech staff,1
+5332468,F,N,Y,1,148303.105480037,Higher education,Widow,House / apartment,-23360,-2555,1,0,0,Secretaries,2
+5629264,M,Y,Y,2,164421.10496500874,Lower secondary,Divorced,House / apartment,-12410,-6935,0,0,0,High skill tech staff,3
+5566363,F,Y,Y,0,261149.41058055332,Higher education,Widow,House / apartment,-22265,-9855,0,0,0,Secretaries,2
+5577929,M,N,Y,0,236601.58210813993,Incomplete higher,Civil marriage,House / apartment,-12045,-3285,0,0,1,Waiters/Barmen staff,2
+5001710,F,Y,N,2,169268.6742677931,Higher education,Civil marriage,House / apartment,-11315,-2190,0,1,0,Drivers,3
+5499234,F,Y,Y,1,128831.49845827905,Higher education,Married,House / apartment,-8760,-2555,1,0,1,Waiters/Barmen staff,3
+5043754,F,Y,N,0,99142.2643232684,Secondary / secondary special,Widow,Municipal apartment,-20440,-5840,0,1,0,Sales staff,2
+5738690,M,Y,N,0,111114.56873616086,Secondary / secondary special,Widow,House / apartment,-22265,365243,0,0,0,Low-skill Laborers,2
+5521180,M,N,N,0,563738.5995658761,Higher education,Widow,House / apartment,-18250,-6570,0,1,0,,2
+5906538,M,Y,Y,0,420360.2456636934,Secondary / secondary special,Married,House / apartment,-10220,-730,0,0,0,Sales staff,2
+5988204,M,Y,Y,0,204108.43955828523,Secondary / secondary special,Divorced,House / apartment,-17520,-10585,0,1,0,Realty agents,1
+5671354,M,N,Y,0,267775.82394823036,Secondary / secondary special,Divorced,House / apartment,-9125,-6935,0,0,0,Security staff,2
+5964597,F,N,Y,1,38259.2421796526,Secondary / secondary special,Divorced,House / apartment,-11315,-1825,1,0,0,Managers,3
+5917988,M,Y,Y,0,94545.53233523769,Incomplete higher,Widow,House / apartment,-10220,-10585,0,1,0,Medicine staff,2
+5370958,F,N,N,1,194749.09670188188,Secondary / secondary special,Divorced,House / apartment,-20075,-7300,0,0,0,Secretaries,3
+5277800,M,Y,N,0,68533.62078782791,Secondary / secondary special,Civil marriage,House / apartment,-21535,-365,0,1,0,Drivers,2
+5775108,F,N,N,0,148753.38004969555,Higher education,Single / not married,House / apartment,-21900,-2555,0,0,0,Medicine staff,1
+5133717,F,N,Y,1,224585.32199574052,Secondary / secondary special,Single / not married,House / apartment,-8760,-6935,0,1,0,Cooking staff,3
+5003726,M,N,Y,0,126542.71613753602,Secondary / secondary special,Single / not married,House / apartment,-14600,-4745,0,0,1,Realty agents,1
+5107756,M,Y,N,0,443414.6091438181,Secondary / secondary special,Single / not married,House / apartment,-12775,-10585,1,1,0,Drivers,2
+5804834,M,Y,N,0,140470.95445765628,Secondary / secondary special,Married,House / apartment,-13870,-7300,0,0,0,Medicine staff,1
+5329181,F,N,Y,0,180812.0851634082,Secondary / secondary special,Single / not married,House / apartment,-23360,-6570,0,0,0,IT staff,1
+5934074,F,N,Y,2,145688.53487310524,Secondary / secondary special,Widow,House / apartment,-16790,-10585,0,0,0,,4
+5510676,F,Y,Y,0,280210.73795981146,Higher education,Single / not married,House / apartment,-22630,-4380,0,0,0,Core staff,2
+5949428,F,Y,Y,1,86622.64023412329,Higher education,Married,House / apartment,-9490,-10220,0,1,0,Waiters/Barmen staff,3
+5204139,M,Y,N,0,231820.0325000916,Incomplete higher,Divorced,House / apartment,-10220,-9490,0,0,0,Accountants,1
+5185913,M,N,Y,1,129414.71119579677,Secondary / secondary special,Single / not married,Municipal apartment,-20075,-6205,0,0,0,Cleaning staff,3
+5942741,M,Y,N,0,251493.4488350632,Secondary / secondary special,Divorced,House / apartment,-14965,-10585,0,1,0,Secretaries,2
+5892518,M,N,Y,0,150780.13973775873,Incomplete higher,Married,House / apartment,-14235,-10220,0,0,0,,2
+5324914,M,N,Y,0,286424.8028821308,Secondary / secondary special,Divorced,House / apartment,-8030,365243,0,0,0,Waiters/Barmen staff,2
+5840745,F,Y,Y,1,175575.6684318843,Higher education,Civil marriage,With parents,-21535,-9125,0,0,0,Secretaries,3
+5583340,M,Y,N,0,135648.77768982743,Secondary / secondary special,Married,House / apartment,-12775,-6205,0,1,0,Medicine staff,1
+5245761,M,Y,N,0,107675.15253509683,Incomplete higher,Married,Rented apartment,-9490,-2920,1,1,0,IT staff,2
+5863830,F,N,N,1,477953.35655852064,Lower secondary,Widow,House / apartment,-17520,-7665,0,1,0,Security staff,3
+5241721,F,Y,Y,0,237886.61150550045,Secondary / secondary special,Single / not married,House / apartment,-21170,-365,0,0,0,Core staff,1
+5590347,F,N,N,0,83073.78697832252,Secondary / secondary special,Civil marriage,House / apartment,-15695,-10585,0,0,0,Medicine staff,2
+5542038,F,N,Y,2,217745.16955093213,Incomplete higher,Civil marriage,House / apartment,-18980,-2555,0,0,0,HR staff,3
+5980219,M,Y,Y,2,108160.9018081061,Secondary / secondary special,Divorced,House / apartment,-10585,-7665,1,0,0,IT staff,4
+5200078,M,N,N,0,54492.85701456221,Secondary / secondary special,Divorced,House / apartment,-16425,-5475,0,0,0,Managers,1
+5067079,F,N,N,1,196168.5776943146,Higher education,Married,House / apartment,-12410,-730,0,1,0,Low-skill Laborers,3
+5630214,M,N,N,0,80454.8126642418,Secondary / secondary special,Divorced,House / apartment,-21170,-10220,0,0,0,Sales staff,1
+5651872,F,N,N,1,94502.14178955978,Secondary / secondary special,Widow,House / apartment,-19710,-4380,0,1,0,Low-skill Laborers,3
+5171562,M,Y,N,3,235592.4752067561,Higher education,Divorced,House / apartment,-21170,-10585,1,1,0,IT staff,5
+5606023,M,N,N,0,95687.95387004381,Secondary / secondary special,Civil marriage,House / apartment,-18980,-3285,0,0,0,Security staff,1
+5446193,M,Y,Y,0,313083.4943036508,Secondary / secondary special,Married,Rented apartment,-9855,-8030,1,0,0,Sales staff,2
+5031480,M,Y,N,0,114014.55678531672,Higher education,Divorced,House / apartment,-21900,-4745,1,1,0,,2
+5014930,F,Y,N,0,203052.41050911997,Secondary / secondary special,Divorced,House / apartment,-22265,-8030,0,0,1,Secretaries,2
+5913465,M,Y,Y,0,383959.14373531507,Higher education,Widow,House / apartment,-22995,-1460,0,0,1,Secretaries,2
+5940968,F,N,Y,0,118527.80823523736,Secondary / secondary special,Single / not married,House / apartment,-23360,-7665,0,1,0,Waiters/Barmen staff,2
+5337637,F,N,N,0,131819.02479083985,Secondary / secondary special,Widow,House / apartment,-21900,-730,0,1,0,Accountants,2
+5023673,F,Y,N,0,111578.75888664756,Secondary / secondary special,Divorced,House / apartment,-11315,-4745,0,1,0,IT staff,2
+5720397,F,N,Y,0,124358.57961526273,Secondary / secondary special,Widow,House / apartment,-18980,-5110,0,1,0,Laborers,2
+5060540,M,Y,Y,1,194019.9330112848,Secondary / secondary special,Widow,House / apartment,-22995,-5110,0,1,1,Laborers,2
+5422425,F,N,N,0,55877.48818803149,Higher education,Widow,House / apartment,-14600,-3285,0,1,0,Low-skill Laborers,2
+5178034,F,N,Y,0,264153.0306165562,Secondary / secondary special,Single / not married,House / apartment,-11680,-6205,0,0,1,Cleaning staff,1
+5318064,M,Y,N,1,86329.93545794225,Higher education,Widow,House / apartment,-13505,-6205,0,0,0,,3
+5960456,M,Y,Y,0,181775.96639263484,Secondary / secondary special,Married,House / apartment,-10220,-1825,0,0,0,Waiters/Barmen staff,2
+5597279,F,Y,Y,1,439630.0035532545,Secondary / secondary special,Civil marriage,House / apartment,-13870,-3285,1,0,0,High skill tech staff,2
+5240651,M,Y,Y,0,232588.04205374105,Lower secondary,Single / not married,House / apartment,-20075,-365,1,0,0,Medicine staff,1
+5860508,M,Y,Y,0,87118.23952914744,Secondary / secondary special,Single / not married,House / apartment,-8395,-1095,0,0,0,Sales staff,2
+5010464,F,N,Y,0,66444.7845407186,Secondary / secondary special,Single / not married,House / apartment,-8760,365243,0,0,1,Cooking staff,2
+5880164,M,N,N,1,205773.21096924398,Higher education,Widow,Office apartment,-9490,-1095,0,0,0,IT staff,2
+5250556,F,N,N,0,127423.52728496025,Secondary / secondary special,Divorced,House / apartment,-12410,-9490,0,1,0,Secretaries,2
+5324043,F,N,Y,0,324376.5096331837,Higher education,Married,House / apartment,-21170,365243,0,0,0,Security staff,2
+5399196,F,Y,N,2,99677.72100879023,Secondary / secondary special,Married,House / apartment,-10950,-6570,0,0,0,Accountants,4
+5196807,M,Y,N,0,215448.05810796985,Secondary / secondary special,Civil marriage,House / apartment,-11680,-4380,1,0,0,Low-skill Laborers,2
+5221876,M,Y,N,0,301991.5581441641,Secondary / secondary special,Widow,House / apartment,-10220,-8030,0,0,0,Low-skill Laborers,2
+5660823,M,Y,N,0,202162.75143224915,Secondary / secondary special,Civil marriage,House / apartment,-14235,-730,1,1,0,Medicine staff,2
+5452447,M,N,N,1,270623.5237292001,Secondary / secondary special,Widow,House / apartment,-20805,-1460,0,0,0,Cleaning staff,2
+5090151,F,N,Y,1,95330.38269946913,Secondary / secondary special,Civil marriage,House / apartment,-8395,-8030,0,0,0,Cooking staff,3
+5144138,F,Y,Y,0,80110.94682199563,Higher education,Married,House / apartment,-13140,-3285,1,1,0,Low-skill Laborers,2
+5979592,F,N,N,0,114186.87456146178,Higher education,Widow,House / apartment,-20075,-6935,0,0,0,HR staff,2
+5870289,M,Y,Y,0,134570.72545446872,Secondary / secondary special,Married,House / apartment,-20075,-4380,0,0,0,HR staff,2
+5842882,M,Y,Y,0,93676.89084923056,Secondary / secondary special,Single / not married,House / apartment,-23360,0,1,1,0,Waiters/Barmen staff,1
+5114135,M,N,Y,0,149139.60447188446,Secondary / secondary special,Married,House / apartment,-19710,-2190,1,0,0,Accountants,2
+5052413,M,N,Y,0,46931.47702428123,Secondary / secondary special,Widow,Rented apartment,-10950,-2920,1,0,1,Managers,2
+5904743,M,N,N,0,166174.14887410976,Lower secondary,Civil marriage,Rented apartment,-7665,-1460,0,1,0,Low-skill Laborers,1
+5407527,F,N,Y,0,105096.23530380231,Higher education,Widow,House / apartment,-8395,-8395,0,0,1,Cleaning staff,2
+5782231,M,N,Y,0,460197.0304907406,Higher education,Divorced,House / apartment,-18980,-10220,0,0,0,IT staff,2
+5622142,F,N,Y,0,358729.44218242215,Higher education,Civil marriage,House / apartment,-11680,-10220,0,0,0,Cleaning staff,1
+5012973,M,Y,N,0,138142.43966175156,Secondary / secondary special,Married,House / apartment,-19710,-5840,0,1,0,Waiters/Barmen staff,1
+5877530,M,N,N,2,151755.53547343347,Incomplete higher,Married,House / apartment,-13505,-9125,0,1,0,Sales staff,4
+5272355,M,Y,Y,0,72816.7057680762,Secondary / secondary special,Civil marriage,House / apartment,-10220,-1825,0,0,0,HR staff,2
+5113372,M,Y,N,1,74031.54406911293,Higher education,Widow,House / apartment,-12045,-6570,1,0,0,Drivers,3
+5122581,F,Y,Y,1,393671.1705744538,Lower secondary,Civil marriage,House / apartment,-15695,-9125,0,0,0,Waiters/Barmen staff,3
+5812444,F,N,Y,0,177688.53656343918,Higher education,Married,House / apartment,-19710,-9125,0,0,0,Secretaries,1
+5860002,F,Y,Y,1,111314.46754242721,Incomplete higher,Single / not married,House / apartment,-9490,-5475,0,1,0,Medicine staff,3
+5943202,F,N,Y,1,277764.30996833736,Secondary / secondary special,Divorced,House / apartment,-8760,-730,0,0,0,IT staff,2
+5167489,F,N,Y,0,113630.22521170035,Higher education,Civil marriage,House / apartment,-22995,-8395,0,0,0,Sales staff,1
+5961314,F,N,Y,1,126156.30779430814,Secondary / secondary special,Married,House / apartment,-18250,-8030,1,0,0,Waiters/Barmen staff,2
+5647359,M,Y,Y,0,197280.93385881113,Incomplete higher,Single / not married,House / apartment,-18615,-9855,0,0,1,HR staff,2
+5931204,F,N,N,0,122410.45815918884,Incomplete higher,Married,House / apartment,-17155,-7300,0,0,0,Core staff,2
+5023682,F,Y,N,1,77034.15222600645,Secondary / secondary special,Civil marriage,House / apartment,-12410,-4745,0,0,0,Sales staff,3
+5848533,F,Y,Y,0,263245.522166684,Higher education,Widow,House / apartment,-8030,-5840,1,0,1,Waiters/Barmen staff,1
+5751501,F,N,Y,1,220865.83688008148,Secondary / secondary special,Widow,House / apartment,-15330,-10585,0,0,0,Low-skill Laborers,3
+5481859,F,Y,N,0,373548.8205825337,Secondary / secondary special,Single / not married,House / apartment,-18250,-5840,1,0,0,Accountants,2
+5023951,M,Y,Y,1,216544.9571551548,Secondary / secondary special,Civil marriage,House / apartment,-16425,365243,0,0,0,Security staff,3
+5378208,M,N,N,2,145206.03312163916,Secondary / secondary special,Civil marriage,House / apartment,-8030,-9125,0,0,0,Security staff,3
+5868697,M,N,N,3,474912.82668078045,Higher education,Widow,House / apartment,-17520,-6935,0,0,0,Accountants,5
+5546941,M,N,N,0,66274.64141725475,Higher education,Widow,House / apartment,-14965,-4380,0,0,0,Laborers,2
+5901728,M,N,Y,1,268316.1743689406,Secondary / secondary special,Divorced,Rented apartment,-15695,-730,0,0,0,Waiters/Barmen staff,2
+5321778,F,Y,N,1,339707.11031121813,Incomplete higher,Civil marriage,House / apartment,-21170,-730,0,0,1,,3
+5971148,M,N,Y,0,139290.75673435756,Secondary / secondary special,Single / not married,House / apartment,-22995,-3285,0,1,0,Cooking staff,2
+5061676,F,Y,N,0,126392.60122214859,Higher education,Divorced,House / apartment,-9125,-4745,0,0,0,Low-skill Laborers,1
+5169482,F,N,N,0,194565.59793099953,Secondary / secondary special,Married,House / apartment,-21535,-365,0,0,1,Accountants,1
+5674942,M,Y,N,0,287626.2163732983,Secondary / secondary special,Divorced,House / apartment,-8030,-3285,0,0,0,Drivers,1
+5416508,M,Y,Y,1,145067.06650042403,Higher education,Widow,House / apartment,-13140,-4745,0,0,0,Accountants,2
+5712238,M,N,Y,0,266851.50665739964,Secondary / secondary special,Divorced,House / apartment,-13505,-8760,0,0,0,,2
+5092083,F,N,N,0,276380.83342757914,Secondary / secondary special,Single / not married,House / apartment,-22995,-5110,0,1,0,Private service staff,2
+5113067,F,N,N,0,384999.6101777168,Higher education,Divorced,House / apartment,-17155,-730,0,1,1,Medicine staff,2
+5960560,M,N,Y,0,74284.96209465755,Higher education,Divorced,House / apartment,-16790,365243,1,0,0,Waiters/Barmen staff,2
+5168063,M,Y,N,0,65674.97939476297,Secondary / secondary special,Married,House / apartment,-10950,0,1,0,0,Accountants,1
+5018092,F,Y,N,0,273489.68219413154,Secondary / secondary special,Widow,House / apartment,-9125,-8030,0,1,0,Security staff,2
+5868205,F,N,Y,0,169979.88882549087,Higher education,Married,House / apartment,-17520,-365,0,1,0,Cleaning staff,1
+5980294,F,N,N,0,69366.40637022984,Secondary / secondary special,Married,House / apartment,-13505,-9490,1,0,0,Security staff,2
+5865260,M,N,N,0,211870.48861856107,Secondary / secondary special,Married,House / apartment,-13140,365243,0,0,0,Cleaning staff,2
+5396638,M,Y,N,0,79996.51822834971,Secondary / secondary special,Widow,Municipal apartment,-12045,-3650,1,0,0,Realty agents,1
+5293540,M,N,N,2,87870.83280625925,Secondary / secondary special,Widow,House / apartment,-9490,-5110,1,1,0,Waiters/Barmen staff,4
+5096511,F,Y,Y,1,66644.59519299038,Secondary / secondary special,Civil marriage,House / apartment,-13505,-6205,0,0,0,HR staff,3
+5131552,M,N,N,0,138699.86951134633,Secondary / secondary special,Married,House / apartment,-19710,-4015,1,0,0,Waiters/Barmen staff,2
+5678826,M,N,Y,0,133057.36526698747,Higher education,Single / not married,House / apartment,-22265,-3650,0,0,0,Laborers,2
+5313599,F,N,Y,0,270976.3956782164,Academic degree,Divorced,House / apartment,-8030,365243,0,1,0,Sales staff,2
+5853784,M,Y,N,0,130323.98479074094,Secondary / secondary special,Widow,House / apartment,-9490,-2555,0,0,0,Realty agents,1
+5155552,M,Y,Y,0,236563.99039946566,Secondary / secondary special,Married,House / apartment,-22630,-365,0,0,0,High skill tech staff,2
+5672358,M,Y,N,0,96437.70923092113,Secondary / secondary special,Single / not married,House / apartment,-12775,-6935,0,0,0,Realty agents,1
+5661482,F,Y,Y,0,82378.44189824419,Secondary / secondary special,Civil marriage,House / apartment,-19345,-6935,0,1,0,,2
+5173511,F,N,Y,0,89868.57695296156,Higher education,Single / not married,House / apartment,-16425,365243,0,0,0,,2
+5993152,F,Y,N,0,268420.3289845972,Secondary / secondary special,Civil marriage,Co-op apartment,-21535,-4015,0,0,0,Private service staff,1
+5817322,F,N,N,0,254530.00998496404,Incomplete higher,Widow,House / apartment,-22995,365243,0,0,0,Managers,2
+5074396,M,N,N,0,86640.69845658453,Secondary / secondary special,Widow,House / apartment,-14600,-3650,0,0,0,Waiters/Barmen staff,2
+5033380,M,Y,N,0,166204.498022952,Higher education,Single / not married,House / apartment,-8395,-10585,0,0,0,Realty agents,1
+5131914,M,N,N,0,58757.59503460593,Secondary / secondary special,Married,House / apartment,-18615,-7300,0,1,0,Cleaning staff,2
+5921165,F,Y,N,0,145903.95056658375,Higher education,Divorced,House / apartment,-21170,-6205,0,0,0,High skill tech staff,2
+5191115,F,Y,N,0,111765.21776338822,Secondary / secondary special,Married,House / apartment,-19345,-7665,1,0,0,Realty agents,2
+5169122,M,Y,N,0,140219.6240439538,Higher education,Divorced,House / apartment,-17520,-6205,1,0,0,Accountants,2
+5058470,M,Y,Y,1,300825.6965274249,Higher education,Single / not married,House / apartment,-15695,-6570,0,1,0,Secretaries,3
+5164671,F,Y,N,0,321800.0017340563,Academic degree,Divorced,House / apartment,-18615,-2555,1,1,0,HR staff,2
+5407891,F,Y,N,1,182697.72796079598,Higher education,Divorced,House / apartment,-13505,-1460,0,1,0,HR staff,2
+5224870,M,N,Y,0,467968.6954701179,Secondary / secondary special,Divorced,Municipal apartment,-14600,365243,0,0,0,Managers,2
+5715676,M,N,N,0,61403.34020866768,Secondary / secondary special,Widow,House / apartment,-9125,-6935,1,1,0,,1
+5179129,M,Y,N,1,210524.19173621153,Secondary / secondary special,Single / not married,House / apartment,-22265,-5840,0,1,0,HR staff,2
+5390433,M,Y,N,1,317691.9768586842,Higher education,Widow,House / apartment,-14235,-1095,1,1,0,Accountants,3
+5004416,M,N,N,0,94636.46368410412,Secondary / secondary special,Civil marriage,House / apartment,-20805,-4745,0,0,0,Low-skill Laborers,2
+5250209,F,Y,N,0,182195.1933607539,Secondary / secondary special,Single / not married,Rented apartment,-9855,365243,0,0,0,Laborers,2
+5332270,F,N,Y,0,166364.59013167446,Secondary / secondary special,Married,House / apartment,-20440,-1460,0,1,0,Managers,2
+5476290,M,N,N,0,60733.170845292974,Higher education,Divorced,House / apartment,-16060,-730,1,0,0,Low-skill Laborers,2
+5863784,M,Y,Y,1,186444.90564840185,Secondary / secondary special,Divorced,House / apartment,-13140,-9490,0,0,0,Private service staff,3
+5982815,M,Y,Y,0,138473.2998430615,Incomplete higher,Single / not married,Municipal apartment,-17885,-7300,0,0,0,Cleaning staff,2
+5590887,M,Y,Y,0,101026.98049106127,Lower secondary,Single / not married,House / apartment,-18250,-6935,0,0,0,Laborers,1
+5532310,F,Y,Y,1,203300.2492330988,Secondary / secondary special,Single / not married,House / apartment,-21535,-8760,0,0,0,High skill tech staff,3
+5160877,F,Y,N,0,232285.81892613057,Secondary / secondary special,Divorced,House / apartment,-14600,-10585,0,1,0,Sales staff,2
+5203286,F,N,N,0,187442.53743207865,Incomplete higher,Divorced,House / apartment,-10220,-6205,0,0,0,Security staff,2
+5489240,F,Y,N,0,168029.4654799046,Secondary / secondary special,Civil marriage,House / apartment,-15330,-730,0,1,0,High skill tech staff,1
+5186089,F,Y,N,0,209444.31574223997,Higher education,Single / not married,House / apartment,-16790,-1825,0,1,0,,2
+5807088,M,N,N,0,178563.74452963498,Secondary / secondary special,Married,House / apartment,-16790,-9490,0,1,0,Security staff,2
+5977288,F,N,N,0,240699.01424734393,Higher education,Widow,House / apartment,-9125,-8030,0,0,0,High skill tech staff,1
+5016247,F,N,N,0,369111.87640629,Secondary / secondary special,Divorced,House / apartment,-23360,-8760,1,1,0,HR staff,2
+5947797,M,Y,Y,0,108098.8942596877,Secondary / secondary special,Widow,House / apartment,-14965,-1095,0,1,0,High skill tech staff,1
+5799217,F,N,Y,0,88872.08017563903,Secondary / secondary special,Married,House / apartment,-18980,-4380,0,0,0,HR staff,2
+5012284,M,N,Y,1,60087.75354909034,Secondary / secondary special,Divorced,House / apartment,-19345,-9125,0,0,1,Managers,3
+5148417,F,N,N,0,146882.19176118803,Secondary / secondary special,Single / not married,House / apartment,-14235,-1825,0,0,0,Drivers,1
+5547779,M,N,N,0,141027.775543283,Secondary / secondary special,Married,House / apartment,-22630,-8030,0,0,0,High skill tech staff,1
+5740546,M,Y,Y,0,89268.59641235862,Secondary / secondary special,Divorced,House / apartment,-11680,-9125,0,1,0,IT staff,2
+5977552,F,N,Y,0,186883.32141911404,Secondary / secondary special,Civil marriage,House / apartment,-10220,-8760,0,0,0,Sales staff,2
+5507950,M,N,Y,0,138642.00254991354,Secondary / secondary special,Widow,House / apartment,-17155,-2190,0,0,0,Sales staff,2
+5689411,M,Y,Y,0,158466.48682923274,Secondary / secondary special,Married,With parents,-20805,-7300,1,0,1,Security staff,2
+5311167,M,N,Y,0,171865.10986274428,Secondary / secondary special,Married,House / apartment,-9125,-3650,0,0,1,Cleaning staff,1
+5615315,F,N,Y,0,304967.3040453095,Incomplete higher,Divorced,House / apartment,-15695,-9855,0,0,0,,2
+5625492,M,N,Y,0,203660.40273354875,Secondary / secondary special,Single / not married,House / apartment,-12410,-4380,0,0,0,High skill tech staff,1
+5913275,F,Y,N,0,75834.95893462328,Lower secondary,Divorced,House / apartment,-12775,-10220,0,1,0,IT staff,2
+5575894,M,Y,N,0,173257.62639938423,Secondary / secondary special,Married,House / apartment,-17885,-1095,0,0,0,IT staff,1
+5194276,F,Y,N,0,242571.255137909,Secondary / secondary special,Married,House / apartment,-16425,-10220,0,0,0,Managers,1
+5173032,F,N,N,0,117590.55689363531,Secondary / secondary special,Civil marriage,House / apartment,-11315,-8395,0,0,0,Realty agents,2
+5398057,F,Y,N,0,436555.09642165306,Higher education,Civil marriage,House / apartment,-10220,-365,0,0,0,Medicine staff,2
+5804524,F,Y,Y,0,231741.04212436566,Higher education,Divorced,House / apartment,-18980,-365,1,0,0,Accountants,2
+5512405,F,N,N,1,308439.7789914319,Incomplete higher,Widow,House / apartment,-17155,-7665,0,1,0,Managers,3
+5765524,M,Y,N,0,60828.20165227278,Higher education,Divorced,House / apartment,-8760,-4380,0,1,0,,2
+5334865,M,N,Y,0,111790.54252118971,Secondary / secondary special,Single / not married,House / apartment,-21170,-7665,0,0,0,Realty agents,2
+5381823,M,N,N,0,190734.12460905508,Secondary / secondary special,Widow,House / apartment,-12045,-8760,0,0,0,Managers,2
+5311453,M,N,N,0,199528.47319150323,Secondary / secondary special,Divorced,House / apartment,-21170,-1095,0,0,0,IT staff,2
+5340736,F,N,Y,2,102556.50146538173,Higher education,Married,With parents,-12410,-4015,0,1,0,Waiters/Barmen staff,4
+5259312,F,Y,N,1,412121.0455940379,Secondary / secondary special,Divorced,Rented apartment,-14965,-2555,0,0,0,Sales staff,3
+5386318,M,Y,N,0,139148.76559839875,Higher education,Single / not married,House / apartment,-12045,-1460,0,1,0,Managers,1
+5021425,M,N,N,1,63883.2855722197,Secondary / secondary special,Civil marriage,House / apartment,-16060,-9125,0,0,0,Realty agents,3
+5328673,F,N,Y,2,256774.95316941035,Higher education,Divorced,House / apartment,-11315,-5110,1,0,1,Realty agents,4
+5931747,M,Y,Y,0,274056.64329207473,Secondary / secondary special,Civil marriage,House / apartment,-18250,365243,0,0,0,Cooking staff,2
+5964906,M,N,N,0,133270.11122061926,Secondary / secondary special,Divorced,House / apartment,-15695,-9855,0,1,1,High skill tech staff,2
+5631381,M,N,N,0,122143.81047781806,Secondary / secondary special,Widow,House / apartment,-23360,365243,0,1,0,Medicine staff,2
+5460437,F,Y,Y,1,70760.86910387468,Incomplete higher,Civil marriage,House / apartment,-9490,-8760,0,0,0,Medicine staff,3
+5181146,F,N,N,0,41481.02110592077,Higher education,Civil marriage,House / apartment,-14235,-5840,0,0,0,Private service staff,2
+5073340,M,Y,Y,2,109253.49728541846,Incomplete higher,Widow,House / apartment,-20440,-365,0,0,0,Medicine staff,4
+5379911,M,Y,Y,2,142676.17162541818,Secondary / secondary special,Civil marriage,House / apartment,-17520,-10220,0,0,0,Managers,3
+5311892,M,N,Y,0,209668.5334520166,Secondary / secondary special,Civil marriage,House / apartment,-14600,365243,0,1,0,IT staff,2
+5300348,M,N,Y,1,287289.63296592754,Secondary / secondary special,Widow,House / apartment,-22265,-4380,0,0,0,Medicine staff,3
+5695224,F,Y,N,0,176884.3360195517,Higher education,Married,With parents,-20075,-10220,0,0,0,Low-skill Laborers,1
+5999029,M,N,Y,0,158714.76705597178,Higher education,Civil marriage,House / apartment,-17885,-5840,0,1,0,Cooking staff,1
+5202051,F,N,Y,1,184570.6371452023,Higher education,Married,House / apartment,-16060,-5475,0,0,0,Laborers,3
+5686065,M,N,Y,0,57157.79075284944,Secondary / secondary special,Single / not married,House / apartment,-16425,365243,0,1,0,Managers,1
+5757598,F,Y,N,1,303526.3817505002,Higher education,Single / not married,House / apartment,-12775,-5110,0,0,0,Core staff,3
+5802210,M,N,N,1,165580.81666013016,Secondary / secondary special,Widow,House / apartment,-10950,365243,0,0,0,High skill tech staff,2
+5852974,F,Y,N,0,102322.33718465679,Secondary / secondary special,Widow,House / apartment,-16425,-10220,0,1,0,Cooking staff,2
+5416777,M,Y,N,0,102269.2822214984,Secondary / secondary special,Civil marriage,House / apartment,-12410,-2190,0,1,0,Private service staff,2
+5821316,F,N,N,0,218638.1343067403,Secondary / secondary special,Civil marriage,House / apartment,-16060,-1095,0,0,0,Managers,2
+5144345,M,Y,Y,0,80032.98205555443,Secondary / secondary special,Married,House / apartment,-17155,-4745,0,0,0,IT staff,2
+5875799,F,N,N,1,139623.81342171523,Secondary / secondary special,Civil marriage,House / apartment,-22630,-7300,0,0,1,Core staff,3
+5509245,F,Y,Y,3,116689.33049691831,Secondary / secondary special,Married,House / apartment,-14600,-6205,1,0,0,High skill tech staff,5
+5602959,M,N,N,0,131340.22499684925,Secondary / secondary special,Married,Rented apartment,-13505,-2190,1,0,0,Core staff,2
+5125999,M,Y,N,0,311712.32604085613,Secondary / secondary special,Civil marriage,House / apartment,-12045,-2920,0,1,0,Managers,2
+5251185,M,Y,Y,0,144215.77895269427,Secondary / secondary special,Divorced,House / apartment,-12410,-4745,0,0,0,Sales staff,1
+5974746,F,N,N,0,194139.7553800814,Secondary / secondary special,Married,House / apartment,-23360,-8760,1,0,1,Cooking staff,2
+5312459,M,Y,N,0,207741.35811520345,Secondary / secondary special,Divorced,House / apartment,-15330,-9125,0,0,0,Sales staff,2
+5323914,F,N,Y,0,84806.41992047383,Secondary / secondary special,Divorced,House / apartment,-13870,-8760,0,0,0,Secretaries,2
+5765186,M,Y,Y,1,96449.43832119965,Secondary / secondary special,Married,House / apartment,-19345,-1460,0,1,0,Core staff,3
+5327737,M,N,Y,0,64220.094034376416,Higher education,Civil marriage,House / apartment,-14965,-6205,0,1,0,Cleaning staff,2
+5602681,M,Y,N,1,228694.50450926437,Higher education,Civil marriage,House / apartment,-20805,-7300,0,1,0,Sales staff,2
+5784382,F,N,N,1,67745.43091710031,Secondary / secondary special,Widow,House / apartment,-7665,-9855,0,1,0,Cleaning staff,3
+5016080,F,Y,Y,0,167902.92466018614,Higher education,Widow,House / apartment,-12410,-7300,0,0,0,Managers,2
+5730353,M,Y,N,2,128718.74796960768,Secondary / secondary special,Civil marriage,House / apartment,-17520,-1460,0,0,0,Laborers,3
+5949854,F,N,Y,1,156671.6487459382,Secondary / secondary special,Single / not married,With parents,-17520,365243,0,1,0,Medicine staff,2
+5073225,F,Y,N,0,238070.11736490647,Higher education,Single / not married,House / apartment,-7665,-1460,0,1,0,Secretaries,2
+5244781,M,N,Y,1,166717.0146935525,Secondary / secondary special,Single / not married,House / apartment,-18615,-2920,0,0,0,HR staff,2
+5945333,M,N,Y,0,82685.72910778977,Higher education,Civil marriage,With parents,-19710,-365,0,1,0,Cleaning staff,1
+5833379,F,Y,N,0,70814.73316873182,Higher education,Married,House / apartment,-15330,-8030,0,1,0,Drivers,1
+5920540,M,Y,Y,0,275921.8222722046,Secondary / secondary special,Single / not married,House / apartment,-13140,-9490,0,0,0,Waiters/Barmen staff,2
+5227344,F,N,Y,0,108864.16470196449,Higher education,Divorced,House / apartment,-13140,-5475,0,0,1,Low-skill Laborers,2
+5732666,F,N,N,0,232096.00320599144,Secondary / secondary special,Single / not married,House / apartment,-13505,-4015,0,1,0,High skill tech staff,1
+5101954,F,N,N,0,100451.08265563678,Academic degree,Married,House / apartment,-8395,-2190,0,0,0,Cooking staff,1
+5043141,M,N,N,1,85493.27787597562,Secondary / secondary special,Civil marriage,House / apartment,-22265,-365,0,1,0,HR staff,3
+5201003,M,Y,N,0,133415.2387376848,Secondary / secondary special,Single / not married,With parents,-13140,365243,0,0,1,Security staff,2
+5403986,M,Y,Y,0,160031.82149543526,Higher education,Married,House / apartment,-18615,-730,1,1,0,Drivers,2
+5663941,M,Y,Y,0,151877.09797040772,Higher education,Divorced,House / apartment,-20075,-1095,0,1,0,Managers,2
+5990414,F,Y,N,3,134588.61602694995,Higher education,Civil marriage,House / apartment,-8760,0,0,0,0,Managers,5
+5734471,M,Y,Y,1,99724.97539005878,Secondary / secondary special,Single / not married,House / apartment,-11680,-6570,0,0,0,Accountants,3
+5049198,F,N,N,0,353282.25659671274,Higher education,Married,House / apartment,-16060,-5475,0,0,0,Managers,2
+5456377,M,N,Y,3,100780.86257724969,Higher education,Divorced,House / apartment,-18250,-10585,1,0,0,Low-skill Laborers,4
+5487131,F,N,Y,2,134659.61409402412,Higher education,Civil marriage,House / apartment,-21900,-10220,0,0,0,Sales staff,4
+5687420,F,N,N,3,185244.17319660503,Secondary / secondary special,Widow,House / apartment,-15330,-4380,0,0,0,Sales staff,5
+5784892,M,Y,Y,0,109532.61735426109,Secondary / secondary special,Divorced,House / apartment,-17155,-365,0,0,0,,2
+5213327,M,Y,N,1,258596.22302119524,Higher education,Widow,House / apartment,-23360,-8395,0,0,0,Low-skill Laborers,2
+5723028,M,N,N,0,71217.9469867816,Higher education,Married,House / apartment,-20440,-3650,0,0,0,,2
+5563589,M,Y,Y,0,159453.24842372182,Secondary / secondary special,Single / not married,House / apartment,-18615,-7665,0,1,0,Laborers,2
+5984259,M,Y,Y,0,205824.59523577217,Higher education,Divorced,House / apartment,-14235,-3650,0,0,0,IT staff,2
+5887154,F,Y,Y,0,324265.67999854207,Higher education,Divorced,House / apartment,-13140,-8760,0,0,0,Realty agents,2
+5623328,M,Y,Y,2,170794.9562664014,Secondary / secondary special,Divorced,House / apartment,-16425,365243,1,0,0,Realty agents,3
+5485311,F,N,Y,0,220194.46951423323,Secondary / secondary special,Divorced,House / apartment,-9855,-5840,0,0,0,,1
+5880549,F,N,N,0,98456.53231156626,Higher education,Married,House / apartment,-21535,-1095,1,1,0,Laborers,2
+5236211,F,Y,Y,1,103426.59230228723,Secondary / secondary special,Civil marriage,House / apartment,-14235,-2555,1,0,0,Managers,3
+5559362,F,N,N,0,212756.08276520032,Higher education,Widow,House / apartment,-12045,-4015,0,0,0,Waiters/Barmen staff,2
+5724744,F,Y,Y,2,155494.5624018797,Secondary / secondary special,Married,With parents,-13505,-5475,0,0,0,Cooking staff,4
+5141116,F,Y,Y,0,108467.94302042558,Secondary / secondary special,Divorced,Co-op apartment,-23360,-730,1,1,0,High skill tech staff,2
+5501230,M,Y,Y,0,97832.96999416167,Higher education,Widow,House / apartment,-16790,-4015,0,0,0,Cooking staff,2
+5942087,M,N,N,0,306964.4388642893,Secondary / secondary special,Married,House / apartment,-23360,-1095,1,0,0,,2
+5479253,F,Y,N,1,243831.22851834464,Lower secondary,Married,Office apartment,-23360,-9125,0,0,0,Low-skill Laborers,2
+5631638,M,N,N,0,274699.21921717084,Secondary / secondary special,Single / not married,House / apartment,-10585,-3285,0,0,0,HR staff,1
+5273192,F,Y,Y,0,83483.62436368459,Higher education,Single / not married,House / apartment,-11680,-9490,1,0,0,Waiters/Barmen staff,1
+5593967,F,Y,Y,0,222589.35027516246,Higher education,Divorced,House / apartment,-19345,-2555,0,1,1,Core staff,2
+5949905,M,N,Y,2,98342.9097299062,Secondary / secondary special,Civil marriage,Municipal apartment,-17885,-3650,0,1,0,HR staff,3
+5686750,M,Y,Y,0,157222.74730279032,Secondary / secondary special,Civil marriage,House / apartment,-18980,-1825,0,0,0,Security staff,2
+5389128,F,Y,N,0,66029.21443137652,Incomplete higher,Divorced,House / apartment,-19710,365243,0,0,0,IT staff,2
+5567202,M,N,Y,0,88738.76739138739,Higher education,Civil marriage,Rented apartment,-12775,365243,1,0,0,,2
+5599606,F,N,N,0,126944.39341406515,Secondary / secondary special,Civil marriage,House / apartment,-17885,-8395,0,0,0,Medicine staff,1
+5897247,F,Y,Y,0,78197.35229275032,Higher education,Civil marriage,House / apartment,-15330,365243,1,0,0,Cooking staff,2
+5275734,F,Y,Y,0,305100.92561890767,Higher education,Single / not married,House / apartment,-10585,-1095,0,1,0,Security staff,2
+5107320,M,Y,Y,1,106385.1913495284,Secondary / secondary special,Divorced,House / apartment,-21900,-9125,0,0,0,Security staff,3
+5047422,F,N,Y,0,212388.94763451966,Higher education,Single / not married,House / apartment,-17520,-1460,1,0,0,Core staff,2
+5083047,F,N,Y,0,193639.70091288953,Secondary / secondary special,Single / not married,House / apartment,-17885,-8395,1,1,0,Low-skill Laborers,2
+5249922,M,Y,Y,0,62252.392279082356,Secondary / secondary special,Civil marriage,Rented apartment,-10585,-3285,0,1,0,Realty agents,1
+5762883,F,Y,Y,1,537260.104977926,Secondary / secondary special,Civil marriage,House / apartment,-10585,-2555,0,1,0,,2
+5456902,M,N,Y,0,69717.99410047733,Secondary / secondary special,Widow,House / apartment,-21170,-10585,0,0,0,Cooking staff,2
+5257528,F,N,N,1,240061.59429323033,Secondary / secondary special,Civil marriage,House / apartment,-14965,-4380,0,0,0,Sales staff,3
+5100488,F,Y,N,2,170903.4879180139,Secondary / secondary special,Civil marriage,House / apartment,-14235,-1095,0,0,0,Secretaries,4
+5184040,M,Y,Y,1,172303.3676849586,Secondary / secondary special,Married,House / apartment,-20075,-4015,0,1,0,IT staff,3
+5041377,F,N,Y,1,164715.1878697607,Higher education,Widow,Rented apartment,-11315,-5475,0,1,0,Secretaries,3
+5310042,F,N,Y,1,129867.56013886722,Higher education,Married,House / apartment,-16060,-10220,0,1,0,Cooking staff,3
+5890814,M,Y,Y,2,213493.78374924508,Secondary / secondary special,Married,House / apartment,-13870,-9490,0,0,0,Low-skill Laborers,4
+5283767,F,Y,Y,0,89413.46244938967,Secondary / secondary special,Married,House / apartment,-16425,365243,0,1,0,Waiters/Barmen staff,1
+5941993,F,N,N,0,120098.16079727242,Higher education,Divorced,House / apartment,-8760,-2190,0,1,0,IT staff,2
+5777194,M,N,N,0,151770.49127460577,Higher education,Single / not married,House / apartment,-12410,365243,1,0,1,Cleaning staff,2
+5508510,F,N,N,0,155024.28000001656,Secondary / secondary special,Widow,Rented apartment,-10585,-365,1,0,1,Cleaning staff,1
+5233567,F,N,N,0,63199.85571512867,Secondary / secondary special,Widow,House / apartment,-11680,-1460,0,1,0,IT staff,2
+5319644,M,Y,N,0,117655.17533987621,Secondary / secondary special,Divorced,House / apartment,-10585,-5475,1,1,1,Accountants,2
+5082893,F,Y,Y,0,127693.9801141395,Secondary / secondary special,Civil marriage,House / apartment,-21170,-6205,0,0,0,Managers,1
+5999592,M,Y,Y,0,203411.44541713383,Secondary / secondary special,Married,House / apartment,-17520,-6205,0,1,0,,1
+5693140,M,N,Y,0,177408.72221867525,Higher education,Single / not married,House / apartment,-11315,-3650,0,1,0,Core staff,2
+5526747,M,Y,Y,1,223761.338929642,Secondary / secondary special,Divorced,House / apartment,-7665,-4745,0,0,1,High skill tech staff,2
+5748707,M,N,Y,1,141141.37750519073,Secondary / secondary special,Single / not married,House / apartment,-12410,365243,0,0,0,Realty agents,3
+5580445,F,N,Y,1,585625.2668517587,Secondary / secondary special,Married,House / apartment,-12045,-8030,1,1,1,Accountants,2
+5285416,M,N,N,0,134272.9051469356,Incomplete higher,Married,House / apartment,-13505,-4015,0,0,0,Low-skill Laborers,2
+5955529,M,N,Y,1,350255.8231464362,Secondary / secondary special,Married,House / apartment,-11315,-8030,1,1,0,Waiters/Barmen staff,3
+5202063,F,Y,Y,2,83284.707349399,Secondary / secondary special,Divorced,House / apartment,-11680,-7665,0,0,0,IT staff,3
+5920589,F,Y,Y,1,290780.4248026396,Lower secondary,Married,House / apartment,-16060,-8760,0,0,0,Low-skill Laborers,3
+5861310,F,N,N,1,77587.92744419309,Higher education,Divorced,House / apartment,-21535,-2555,0,0,0,,3
+5051619,F,N,Y,2,69421.54543098272,Secondary / secondary special,Single / not married,Co-op apartment,-7665,365243,0,0,0,Core staff,4
+5716634,M,Y,N,0,129144.62773135556,Secondary / secondary special,Civil marriage,House / apartment,-11315,-9855,0,0,0,Secretaries,2
+5793761,F,N,N,0,222865.66224201387,Secondary / secondary special,Married,House / apartment,-20440,-2555,1,0,0,IT staff,2
+5056318,F,Y,N,1,98624.22183286746,Higher education,Single / not married,House / apartment,-8760,-7665,0,1,0,Waiters/Barmen staff,2
+5004898,M,Y,Y,0,174368.7992626742,Secondary / secondary special,Civil marriage,House / apartment,-12410,-2555,0,1,0,Low-skill Laborers,2
+5075776,F,N,N,0,500156.36261445866,Higher education,Divorced,House / apartment,-10585,-8760,0,0,0,Private service staff,2
+5658137,F,Y,Y,0,104955.3661316507,Secondary / secondary special,Single / not married,House / apartment,-18250,-1460,0,1,1,Laborers,2
+5387911,M,N,N,0,383457.2159236532,Secondary / secondary special,Divorced,House / apartment,-21170,-3285,0,0,0,,2
+5030981,M,N,Y,0,244301.84257598117,Secondary / secondary special,Widow,House / apartment,-14965,-4380,0,1,0,Drivers,2
+5982471,M,Y,N,1,222254.6041429731,Higher education,Single / not married,House / apartment,-14965,-5110,0,0,0,Security staff,3
+5411755,F,Y,Y,0,186270.39033344112,Secondary / secondary special,Married,House / apartment,-19345,-7300,0,1,0,,2
+5602383,M,Y,N,0,192358.72127728592,Higher education,Divorced,House / apartment,-18615,-3285,0,0,0,Managers,2
+5653725,M,Y,N,0,81515.4253547861,Secondary / secondary special,Married,House / apartment,-10220,-6570,0,0,0,HR staff,1
+5182322,M,N,N,0,171545.70378710164,Higher education,Widow,House / apartment,-13870,-8395,0,0,0,Private service staff,2
+5997167,F,N,Y,0,207253.57532044328,Secondary / secondary special,Civil marriage,House / apartment,-12775,-1095,0,0,0,Waiters/Barmen staff,2
+5632303,F,N,Y,0,126779.79197990727,Higher education,Civil marriage,House / apartment,-8395,-8760,1,0,0,High skill tech staff,1
+5796040,M,Y,N,0,732591.7717826606,Secondary / secondary special,Widow,House / apartment,-14965,-8395,0,0,0,Core staff,2
+5663731,M,N,Y,0,92791.3007643264,Secondary / secondary special,Widow,House / apartment,-14600,-6935,0,0,0,Secretaries,2
+5358246,F,N,N,3,273717.54008709587,Incomplete higher,Married,House / apartment,-18980,-3285,0,1,0,Managers,5
+5439055,M,Y,N,0,144774.45201023342,Secondary / secondary special,Widow,House / apartment,-8760,-7665,0,0,0,Drivers,2
+5091889,M,N,Y,0,126499.4652737226,Secondary / secondary special,Divorced,House / apartment,-8395,-365,1,0,0,Sales staff,1
+5128051,M,N,N,0,130510.34980693457,Secondary / secondary special,Civil marriage,House / apartment,-9125,-5110,0,1,0,Sales staff,2
+5422040,F,Y,N,0,70806.78954313733,Secondary / secondary special,Divorced,House / apartment,-20075,-9855,0,0,0,Low-skill Laborers,2
+5617717,M,Y,N,0,152993.8900812169,Incomplete higher,Married,House / apartment,-15330,-730,0,1,0,Drivers,2
+5882362,F,Y,Y,1,167205.96668078515,Secondary / secondary special,Married,House / apartment,-14965,-4015,0,0,0,Accountants,3
+5395036,F,Y,N,1,125151.69596539246,Secondary / secondary special,Single / not married,House / apartment,-13140,0,0,1,0,Medicine staff,2
+5426623,M,N,Y,0,213740.23539342554,Incomplete higher,Single / not married,House / apartment,-9490,-5840,1,1,0,Sales staff,2
+5461162,F,Y,N,0,104172.49535330637,Secondary / secondary special,Civil marriage,House / apartment,-13505,-10220,0,1,0,Low-skill Laborers,1
+5912351,F,N,N,0,164478.4759067253,Incomplete higher,Single / not married,House / apartment,-9125,-5840,0,0,0,Realty agents,1
+5904782,F,Y,Y,0,106211.69545921072,Incomplete higher,Widow,House / apartment,-8760,-1460,0,0,0,Cleaning staff,2
+5228564,F,N,Y,0,208877.47481142037,Secondary / secondary special,Single / not married,House / apartment,-8760,-1095,0,0,0,Low-skill Laborers,2
+5056417,M,Y,Y,0,173115.3158827052,Incomplete higher,Widow,House / apartment,-9855,-3650,0,0,0,Security staff,2
+5082033,F,N,Y,0,294439.6639951945,Secondary / secondary special,Single / not married,House / apartment,-12045,-5110,1,1,0,IT staff,2
+5104235,M,Y,Y,0,216919.6340138797,Academic degree,Divorced,House / apartment,-21170,-9490,0,0,0,Security staff,2
+5125786,F,N,Y,0,302512.3318914387,Secondary / secondary special,Divorced,House / apartment,-18980,-10585,0,1,0,Drivers,2
+5587547,F,Y,Y,2,143555.43067603474,Higher education,Civil marriage,House / apartment,-10950,-2555,0,0,0,Drivers,4
+5294289,F,N,Y,0,114209.21279469303,Higher education,Married,House / apartment,-14235,365243,1,1,0,Laborers,1
+5597964,F,Y,N,0,60124.07508089792,Higher education,Married,House / apartment,-16060,-1095,0,1,0,Cooking staff,2
+5500046,F,Y,N,1,234644.3111423969,Secondary / secondary special,Widow,House / apartment,-20075,-1460,0,0,0,Security staff,3
+5431463,M,Y,Y,0,244848.67557280028,Secondary / secondary special,Single / not married,House / apartment,-13140,-5475,0,1,0,Accountants,2
+5032826,M,Y,N,0,76595.08650542378,Secondary / secondary special,Married,House / apartment,-10950,-10585,0,1,0,Security staff,1
+5832556,M,N,Y,0,65215.59557144948,Secondary / secondary special,Divorced,House / apartment,-11680,-4745,0,1,0,Secretaries,2
+5399337,M,N,Y,1,200694.95787777717,Secondary / secondary special,Widow,Municipal apartment,-21170,-2555,0,0,0,,2
+5870470,F,Y,Y,1,153154.74373027676,Higher education,Civil marriage,Rented apartment,-21170,-2555,0,0,1,High skill tech staff,2
+5301047,M,Y,Y,0,68035.37662354395,Secondary / secondary special,Married,House / apartment,-16425,-7300,0,0,0,,1
+5185381,F,Y,Y,1,118685.42337210721,Incomplete higher,Civil marriage,House / apartment,-21900,-2555,0,1,0,Laborers,2
+5413554,M,N,Y,1,65223.7200983436,Secondary / secondary special,Divorced,House / apartment,-10220,-2555,0,0,0,Cleaning staff,2
+5330235,F,Y,N,0,111005.29529490875,Secondary / secondary special,Single / not married,House / apartment,-21535,-10220,1,0,0,Laborers,1
+5738781,M,N,Y,0,347100.859504359,Secondary / secondary special,Civil marriage,House / apartment,-12045,-7300,1,0,0,Private service staff,1
+5019609,F,N,N,3,212343.87817649398,Secondary / secondary special,Married,House / apartment,-13505,-6205,0,0,0,HR staff,5
+5671361,F,Y,Y,1,212355.2867017833,Secondary / secondary special,Married,House / apartment,-8760,-4015,0,1,0,Medicine staff,3
+5280531,M,N,N,0,195295.36423442897,Secondary / secondary special,Divorced,House / apartment,-16425,-2555,0,1,0,Managers,2
+5848987,F,Y,N,0,193768.63300061942,Incomplete higher,Widow,House / apartment,-7665,-8395,0,0,0,Realty agents,2
+5192366,M,N,Y,0,99683.50485672503,Higher education,Married,House / apartment,-20440,-7665,0,0,0,Low-skill Laborers,2
+5568760,M,N,N,0,191608.12874333805,Secondary / secondary special,Married,House / apartment,-13140,-3285,0,0,1,HR staff,2
+5801372,M,N,N,1,207641.09739364727,Secondary / secondary special,Single / not married,House / apartment,-10220,-5475,0,1,0,Waiters/Barmen staff,3
+5461961,F,Y,Y,0,362121.97007543663,Incomplete higher,Civil marriage,House / apartment,-9490,-9855,1,0,0,,2
+5173515,F,N,N,0,210536.6916935916,Secondary / secondary special,Single / not married,House / apartment,-21170,-9125,0,1,0,HR staff,2
+5482671,F,N,Y,3,274631.64400932204,Secondary / secondary special,Widow,House / apartment,-10220,-2555,1,0,0,Drivers,5
+5283999,M,Y,Y,0,330438.0398416223,Higher education,Single / not married,With parents,-9855,-5840,0,0,0,Cooking staff,2
+5640054,M,Y,N,0,225770.05831650982,Secondary / secondary special,Single / not married,House / apartment,-13870,-4745,0,0,0,Secretaries,2
+5719550,M,Y,N,1,188400.08045273766,Higher education,Single / not married,House / apartment,-13505,-3285,0,0,0,Secretaries,3
+5587408,F,Y,N,0,433516.1969715781,Secondary / secondary special,Widow,House / apartment,-16060,-2190,1,1,0,Private service staff,1
+5620175,M,N,N,0,141732.4620695972,Incomplete higher,Widow,House / apartment,-17885,-3650,0,1,0,HR staff,1
+5333676,F,Y,N,0,73503.60129328589,Higher education,Divorced,House / apartment,-10220,-3285,0,0,0,IT staff,1
+5816029,M,N,N,0,82727.40368040554,Secondary / secondary special,Married,House / apartment,-19345,-8760,0,0,0,Security staff,2
+5797881,F,Y,N,0,315916.6276529703,Secondary / secondary special,Single / not married,House / apartment,-14965,-8395,1,0,0,,2
+5597552,F,N,Y,0,155969.27568602827,Secondary / secondary special,Civil marriage,House / apartment,-22630,-4380,0,0,0,IT staff,2
+5390350,M,Y,N,0,140353.30421537565,Secondary / secondary special,Divorced,House / apartment,-11680,-7300,0,0,0,Security staff,2
+5505380,M,Y,Y,0,129317.67207162266,Incomplete higher,Widow,House / apartment,-19710,-4745,0,1,0,Drivers,2
+5437248,F,N,N,0,121150.78361031112,Higher education,Single / not married,House / apartment,-18615,-4380,0,1,1,Security staff,2
+5756450,M,N,N,0,100206.31359408308,Secondary / secondary special,Married,House / apartment,-8395,-8030,0,0,0,Security staff,1
+5469957,F,Y,N,0,263520.8529380343,Incomplete higher,Widow,Municipal apartment,-16060,-3650,0,0,0,Security staff,2
+5031741,M,N,N,0,172079.51811160374,Academic degree,Married,With parents,-17520,-4745,0,0,0,Accountants,2
+5655982,F,N,Y,0,131740.12445993544,Higher education,Widow,Rented apartment,-12775,-2190,1,1,0,Private service staff,2
+5060912,M,Y,N,2,267465.5384245801,Higher education,Married,House / apartment,-15695,-4380,0,0,0,IT staff,4
+5644497,M,Y,N,1,96637.68367142789,Higher education,Single / not married,House / apartment,-17520,365243,0,0,0,Cooking staff,2
+5117690,M,Y,Y,1,95684.90674582659,Higher education,Widow,House / apartment,-22630,-1825,1,1,1,Medicine staff,3
+5001238,M,Y,N,0,188420.49956377732,Secondary / secondary special,Civil marriage,Co-op apartment,-10950,-7665,0,1,0,Secretaries,2
+5697338,M,Y,N,1,170923.90496325577,Secondary / secondary special,Civil marriage,House / apartment,-17520,-3650,0,1,0,High skill tech staff,3
+5755120,M,Y,N,0,96958.5784629662,Higher education,Civil marriage,House / apartment,-18980,-2190,1,0,1,Sales staff,2
+5977500,F,Y,Y,0,102126.93565563507,Secondary / secondary special,Widow,House / apartment,-12410,0,0,0,0,Sales staff,2
+5970136,M,N,Y,0,296571.0793025238,Secondary / secondary special,Divorced,House / apartment,-20805,-9125,0,1,0,Cleaning staff,1
+5212250,F,N,Y,0,88575.0168548748,Higher education,Civil marriage,House / apartment,-8030,-365,0,0,0,HR staff,2
+5137306,M,Y,Y,0,139469.81494117415,Higher education,Married,House / apartment,-10950,-6935,0,0,0,Sales staff,1
+5887311,F,N,Y,0,156297.91112975017,Secondary / secondary special,Widow,House / apartment,-12775,-7665,0,0,0,Low-skill Laborers,2
+5659639,M,N,N,0,94459.76529598655,Secondary / secondary special,Married,House / apartment,-11315,-9855,0,0,0,Private service staff,2
+5751168,M,Y,Y,0,215286.59155917456,Lower secondary,Single / not married,House / apartment,-12410,-6570,0,0,0,Medicine staff,2
+5561974,M,Y,Y,1,184292.56906743665,Secondary / secondary special,Single / not married,House / apartment,-13870,-9490,0,0,0,Cooking staff,3
+5696231,M,N,N,1,243651.4916580906,Higher education,Single / not married,With parents,-12045,365243,0,0,0,Security staff,3
+5991351,M,Y,N,0,129669.8929566447,Higher education,Married,House / apartment,-10950,365243,0,1,0,Sales staff,2
+5523262,F,N,Y,1,223665.3573424464,Secondary / secondary special,Widow,House / apartment,-9855,-1825,0,0,0,Security staff,3
+5110338,M,N,Y,0,164339.11206090028,Incomplete higher,Single / not married,House / apartment,-9490,-2190,0,0,0,Sales staff,2
+5392357,M,N,N,0,374193.6246369872,Secondary / secondary special,Civil marriage,House / apartment,-19710,-1095,1,0,0,Sales staff,2
+5698918,M,Y,N,0,167719.6546121623,Higher education,Civil marriage,House / apartment,-9125,-1460,0,0,0,Low-skill Laborers,2
+5929485,F,N,Y,0,181920.64832073054,Secondary / secondary special,Widow,House / apartment,-9125,365243,0,0,0,Core staff,2
+5033200,F,N,Y,0,168874.19621346676,Higher education,Civil marriage,With parents,-8760,-9490,0,1,0,Waiters/Barmen staff,2
+5641021,M,Y,N,2,111638.00260358241,Secondary / secondary special,Civil marriage,House / apartment,-8395,-4015,0,1,0,Core staff,3
+5815746,F,Y,N,0,179718.1474100138,Higher education,Widow,House / apartment,-21900,-8030,0,1,0,HR staff,1
+5118842,F,Y,Y,0,85079.5362175373,Higher education,Widow,House / apartment,-18615,-7665,0,1,1,Accountants,2
+5340024,F,N,Y,1,179285.63716715464,Secondary / secondary special,Civil marriage,House / apartment,-20440,-2555,0,0,0,Waiters/Barmen staff,3
+5914888,F,N,N,0,123114.10898823122,Higher education,Married,House / apartment,-18615,-5110,1,0,0,Drivers,2
+5773172,F,N,Y,1,174040.3462485081,Secondary / secondary special,Married,House / apartment,-12045,-10220,1,0,0,Realty agents,2
+5201231,M,Y,N,1,238629.8335861453,Secondary / secondary special,Single / not married,House / apartment,-22995,-1825,0,0,0,Private service staff,2
+5855307,F,Y,N,1,205358.01944410952,Secondary / secondary special,Widow,House / apartment,-13140,0,0,0,0,Cooking staff,2
+5953331,M,N,Y,0,78075.12836475755,Secondary / secondary special,Civil marriage,House / apartment,-16060,-10585,0,0,0,Low-skill Laborers,2
+5834661,M,N,N,0,102936.45176066583,Higher education,Divorced,House / apartment,-20805,-7665,0,0,0,,2
+5552547,M,N,N,0,65605.77888388057,Secondary / secondary special,Single / not married,House / apartment,-19710,365243,0,0,0,IT staff,2
+5302266,M,Y,Y,1,148130.33804307212,Secondary / secondary special,Widow,With parents,-12410,-8395,0,0,0,IT staff,3
+5454552,M,Y,Y,2,88360.57655237705,Secondary / secondary special,Widow,House / apartment,-9855,-2920,0,0,0,Realty agents,4
+5441909,M,N,Y,0,148666.5903450175,Incomplete higher,Married,House / apartment,-16060,-7300,0,0,0,Sales staff,2
+5354858,M,Y,N,0,105694.6610071766,Secondary / secondary special,Divorced,House / apartment,-17885,-1460,1,0,0,,2
+5516705,M,N,N,3,204621.50431430005,Higher education,Divorced,Rented apartment,-16425,-2190,0,1,0,Realty agents,5
+5556874,M,Y,N,0,190160.90625529372,Secondary / secondary special,Married,With parents,-11680,-5840,0,1,0,Core staff,2
+5688931,F,N,N,0,157074.91866134232,Secondary / secondary special,Civil marriage,House / apartment,-10220,-4745,1,1,0,Drivers,1
+5318941,F,N,N,0,339668.22340503446,Higher education,Single / not married,House / apartment,-17520,-6205,0,0,0,Realty agents,1
+5457101,M,N,N,0,164229.75279023848,Incomplete higher,Single / not married,House / apartment,-13140,-5840,0,0,0,Secretaries,2
+5129818,M,Y,N,2,137545.65888708745,Higher education,Married,House / apartment,-16060,-7300,0,0,0,Drivers,4
+5451079,F,Y,N,0,78259.54715188345,Secondary / secondary special,Married,House / apartment,-20440,-4015,0,1,0,Medicine staff,2
+5159355,M,Y,N,0,116314.3213271706,Higher education,Civil marriage,With parents,-20075,-2920,0,1,1,,2
+5920175,M,N,N,0,247886.39635597562,Secondary / secondary special,Divorced,House / apartment,-13140,-7665,0,0,0,Medicine staff,2
+5654624,M,N,Y,0,115893.41706348634,Secondary / secondary special,Single / not married,House / apartment,-12045,365243,1,1,0,Core staff,2
+5671925,F,Y,Y,2,402693.0240162933,Higher education,Civil marriage,House / apartment,-14600,-3285,0,0,0,Low-skill Laborers,4
+5177137,M,N,Y,1,256536.58479143266,Higher education,Divorced,Rented apartment,-10950,-1460,0,0,0,Security staff,3
+5610458,F,N,Y,0,135837.4291582318,Secondary / secondary special,Civil marriage,House / apartment,-18980,0,0,0,0,Managers,2
+5894678,M,N,Y,0,143184.9114307715,Secondary / secondary special,Single / not married,House / apartment,-16790,-10220,0,0,0,,2
+5929224,F,N,Y,0,254062.16204927448,Secondary / secondary special,Civil marriage,House / apartment,-14965,-4745,1,0,0,Accountants,2
+5017646,F,Y,N,0,254457.61126784742,Secondary / secondary special,Widow,House / apartment,-21535,-7665,0,1,0,Core staff,1
+5096997,F,N,N,0,137252.3219901304,Secondary / secondary special,Married,House / apartment,-10585,-6570,0,0,0,Security staff,2
+5597585,F,N,N,0,256464.68503146828,Secondary / secondary special,Civil marriage,House / apartment,-9855,-1825,0,0,0,Medicine staff,2
+5367836,F,N,N,0,173948.12308088894,Secondary / secondary special,Civil marriage,House / apartment,-12410,-8760,0,0,0,Private service staff,2
+5896827,F,N,N,2,107228.46474803798,Secondary / secondary special,Married,House / apartment,-17885,-8395,0,0,0,Waiters/Barmen staff,4
+5002362,F,Y,N,0,154871.9161426224,Higher education,Civil marriage,House / apartment,-14965,-2190,0,0,0,Accountants,2
+5235879,M,Y,N,1,69991.01550401926,Higher education,Widow,House / apartment,-12410,-730,0,1,1,,2
+5000916,F,Y,Y,0,167680.3079645002,Secondary / secondary special,Married,Rented apartment,-11315,-6205,0,1,0,Security staff,2
+5887064,M,Y,N,2,205059.03452542576,Higher education,Single / not married,House / apartment,-12410,365243,1,0,0,High skill tech staff,4
+5960536,M,N,Y,0,341917.6675405921,Higher education,Single / not married,House / apartment,-19710,-4015,0,0,0,Low-skill Laborers,2
+5242022,F,N,N,0,277945.5653282861,Higher education,Civil marriage,House / apartment,-15695,-8395,0,0,1,Laborers,1
+5000078,F,N,Y,0,194533.9051761824,Secondary / secondary special,Divorced,House / apartment,-9125,-5475,1,1,0,High skill tech staff,2
+5964628,F,N,N,0,379504.47186079586,Secondary / secondary special,Married,House / apartment,-12410,-6570,0,0,0,IT staff,2
+5739481,F,Y,N,1,117257.83809581722,Higher education,Single / not married,House / apartment,-21535,-1460,1,1,0,Low-skill Laborers,3
+5828825,F,N,N,0,106069.84198112019,Secondary / secondary special,Married,Municipal apartment,-9490,365243,1,0,0,Cooking staff,2
+5487124,F,Y,N,0,161178.80497705302,Secondary / secondary special,Widow,House / apartment,-21535,365243,1,0,0,Waiters/Barmen staff,2
+5351344,F,N,N,1,203862.39037484903,Higher education,Divorced,House / apartment,-18980,-8760,1,0,0,,3
+5328600,F,N,Y,1,69726.15509614997,Higher education,Single / not married,House / apartment,-14235,365243,0,0,0,Medicine staff,3
+5803976,M,Y,N,2,124574.68137215085,Incomplete higher,Widow,House / apartment,-10950,365243,0,1,0,IT staff,3
+5934288,F,Y,Y,0,369737.9098045194,Secondary / secondary special,Widow,House / apartment,-12410,-10585,1,1,0,HR staff,2
+5468410,M,Y,Y,1,134827.90045781966,Secondary / secondary special,Widow,House / apartment,-7665,-730,0,0,1,High skill tech staff,3
+5504626,M,Y,Y,0,78661.84653096076,Incomplete higher,Divorced,With parents,-10585,-9125,0,0,0,IT staff,1
+5878973,M,Y,Y,0,159816.94250182595,Higher education,Widow,House / apartment,-15330,-5110,0,1,0,Waiters/Barmen staff,2
+5620298,F,Y,Y,0,213743.0863027287,Secondary / secondary special,Civil marriage,House / apartment,-13870,365243,0,1,0,Security staff,1
+5572616,F,Y,Y,0,326337.6845342624,Higher education,Divorced,House / apartment,-19710,365243,0,0,0,Security staff,1
+5004729,M,Y,Y,0,238246.33739816648,Secondary / secondary special,Divorced,House / apartment,-16060,-6205,0,0,0,Waiters/Barmen staff,2
+5684250,M,Y,Y,0,69611.22758791712,Higher education,Single / not married,House / apartment,-19710,-8395,0,1,0,Secretaries,2
+5018373,M,N,N,0,166948.61580374115,Secondary / secondary special,Divorced,House / apartment,-23360,-6570,0,0,1,Secretaries,2
+5284414,F,N,Y,0,99454.54917393741,Secondary / secondary special,Civil marriage,House / apartment,-13870,365243,0,0,0,Waiters/Barmen staff,2
+5510305,M,Y,N,0,280755.671359109,Secondary / secondary special,Widow,Co-op apartment,-20805,-2920,1,0,0,Sales staff,1
+5428730,M,Y,Y,0,198058.39825270933,Secondary / secondary special,Married,House / apartment,-7665,-2555,0,0,0,Low-skill Laborers,2
+5750650,F,N,Y,0,276009.6157302149,Higher education,Widow,House / apartment,-8760,-1825,1,0,0,Core staff,2
+5147156,F,N,Y,2,169354.98076899044,Secondary / secondary special,Single / not married,House / apartment,-20805,-9125,0,0,0,IT staff,4
+5625674,M,Y,N,2,107313.81002992392,Secondary / secondary special,Divorced,House / apartment,-23360,-1825,1,0,0,Medicine staff,4
+5549274,M,Y,N,0,424929.03293151146,Secondary / secondary special,Widow,House / apartment,-8030,-730,0,0,0,Laborers,2
+5541130,M,Y,N,1,158832.7477641563,Secondary / secondary special,Single / not married,House / apartment,-7665,-8030,0,0,0,Drivers,3
+5811161,F,N,Y,0,327401.6507018879,Secondary / secondary special,Widow,With parents,-11315,-1460,0,0,0,Waiters/Barmen staff,2
+5427873,M,N,N,1,119663.47191897452,Secondary / secondary special,Married,House / apartment,-10220,-6205,1,0,0,Cleaning staff,3
+5508393,F,Y,Y,0,167375.65384264744,Secondary / secondary special,Civil marriage,House / apartment,-10950,0,0,0,0,Waiters/Barmen staff,2
+5413323,F,Y,Y,0,122965.84394318995,Secondary / secondary special,Single / not married,House / apartment,-16060,-4015,1,0,0,Waiters/Barmen staff,2
+5212178,F,N,N,1,98359.76586265504,Higher education,Widow,House / apartment,-17520,-10585,0,0,0,Cleaning staff,2
+5467406,M,N,N,0,195751.86344926967,Secondary / secondary special,Married,House / apartment,-9855,-4745,0,1,0,Cleaning staff,2
+5859498,F,Y,Y,2,226036.8523874648,Secondary / secondary special,Divorced,House / apartment,-7665,365243,1,0,1,Cooking staff,4
+5219804,F,N,Y,0,127297.37773417674,Secondary / secondary special,Single / not married,With parents,-17885,-730,0,0,0,Security staff,2
+5245874,F,Y,Y,0,185464.84880859847,Secondary / secondary special,Married,House / apartment,-11680,-5840,0,1,0,IT staff,2
+5087946,F,N,Y,0,273790.42763284064,Secondary / secondary special,Divorced,House / apartment,-20075,-8760,1,0,0,Private service staff,2
+5017237,F,Y,N,0,149218.26162447906,Secondary / secondary special,Divorced,House / apartment,-22265,-9855,0,0,0,Medicine staff,1
+5413234,M,N,Y,0,133258.10655092745,Secondary / secondary special,Single / not married,House / apartment,-7665,-9125,0,1,0,,2
+5964801,M,Y,N,1,275256.25713203556,Secondary / secondary special,Single / not married,House / apartment,-23360,-8030,0,0,0,Secretaries,3
+5231025,M,N,N,0,98735.87496799724,Higher education,Widow,House / apartment,-22265,-5110,1,0,0,IT staff,1
+5043530,F,Y,Y,0,166264.77765833106,Secondary / secondary special,Married,House / apartment,-21900,-1460,0,1,0,Cooking staff,1
+5135120,F,N,Y,0,102988.82327401974,Higher education,Single / not married,House / apartment,-14600,365243,0,0,0,Security staff,2
+5386099,F,Y,N,0,91701.34919525916,Higher education,Single / not married,House / apartment,-18980,-10585,0,0,0,Sales staff,2
+5328849,F,N,Y,0,229334.46896074913,Higher education,Single / not married,House / apartment,-13870,-6205,0,0,0,Cooking staff,1
+5093742,M,Y,N,0,88417.9338058959,Higher education,Married,House / apartment,-18250,-7300,0,1,0,Laborers,2
+5235820,F,N,Y,0,80276.67766694445,Higher education,Divorced,House / apartment,-10950,-9490,1,0,0,Medicine staff,2
+5169479,F,Y,Y,1,111765.80196183444,Lower secondary,Civil marriage,House / apartment,-19345,-730,1,0,0,Medicine staff,3
+5450822,F,Y,Y,2,123408.94918619403,Higher education,Married,House / apartment,-10585,-365,1,0,0,Drivers,4
+5407985,M,Y,Y,1,117394.75675358486,Secondary / secondary special,Single / not married,House / apartment,-10220,-5475,0,0,1,Laborers,3
+5678239,M,N,Y,0,145339.075178564,Secondary / secondary special,Divorced,With parents,-18615,-1825,1,1,1,Medicine staff,2
+5737327,M,N,Y,0,137760.41115067393,Higher education,Divorced,House / apartment,-21900,-1095,0,0,0,Private service staff,2
+5735917,M,Y,N,1,214854.6345836291,Secondary / secondary special,Civil marriage,House / apartment,-8395,-8760,1,1,0,HR staff,3
+5345838,M,Y,Y,0,246163.66356076588,Higher education,Divorced,House / apartment,-16060,-2555,1,0,0,Medicine staff,2
+5940616,M,N,Y,0,259894.383702952,Secondary / secondary special,Married,House / apartment,-12410,-2920,1,0,0,Medicine staff,2
+5463910,F,N,Y,0,147980.69456750396,Lower secondary,Divorced,House / apartment,-9490,-2920,1,1,0,Secretaries,1
+5937173,F,N,Y,0,146159.57801048036,Secondary / secondary special,Married,House / apartment,-14600,365243,0,0,1,Accountants,2
+5784149,F,N,N,0,149943.4381406326,Secondary / secondary special,Civil marriage,House / apartment,-19345,0,1,0,0,Managers,2
+5016487,F,N,N,0,114446.91185945517,Incomplete higher,Single / not married,House / apartment,-15330,-3650,1,1,0,Private service staff,2
+5001172,F,N,Y,0,134483.44835895958,Secondary / secondary special,Divorced,House / apartment,-14965,-2190,0,1,0,IT staff,2
+5113341,M,N,Y,0,122128.51790855775,Secondary / secondary special,Widow,House / apartment,-12775,-4015,0,0,0,HR staff,2
+5118209,F,N,Y,0,178357.7586239155,Incomplete higher,Widow,House / apartment,-7665,0,0,0,0,Accountants,2
+5029782,M,Y,N,0,193791.76120538707,Secondary / secondary special,Civil marriage,House / apartment,-9490,-3285,0,1,1,HR staff,2
+5841872,F,Y,Y,0,150610.7898720405,Secondary / secondary special,Single / not married,House / apartment,-14235,365243,0,0,0,Security staff,1
+5150874,F,N,N,0,116715.972403638,Incomplete higher,Civil marriage,House / apartment,-13140,-9855,0,1,0,Managers,1
+5531515,M,Y,Y,0,232941.28399734545,Higher education,Divorced,House / apartment,-21170,-6935,1,0,0,Security staff,2
+5302243,F,Y,Y,0,235696.19234051634,Higher education,Divorced,House / apartment,-15695,-10220,0,1,0,High skill tech staff,2
+5849695,F,N,Y,0,54899.860704177714,Higher education,Widow,House / apartment,-18250,365243,0,0,1,Drivers,1
+5321776,M,Y,Y,0,345017.7060773329,Secondary / secondary special,Divorced,House / apartment,-14965,-2555,0,0,0,Cleaning staff,2
+5049982,F,N,N,0,175831.60110160007,Incomplete higher,Divorced,House / apartment,-23360,-2920,0,0,0,HR staff,1
+5758444,M,Y,Y,1,208788.0862631281,Higher education,Widow,House / apartment,-20075,-4015,1,0,0,Managers,3
+5154449,M,Y,Y,0,122877.77471593427,Secondary / secondary special,Married,House / apartment,-11680,-7300,0,0,0,Realty agents,1
+5914398,F,N,Y,0,183601.0036201966,Higher education,Divorced,House / apartment,-8760,-365,1,0,0,Managers,2
+5189053,M,N,Y,0,287963.6575158866,Secondary / secondary special,Single / not married,House / apartment,-21900,-2555,0,0,0,Low-skill Laborers,2
+5047977,F,N,Y,1,223012.60485895752,Secondary / secondary special,Widow,House / apartment,-19345,-6570,0,0,0,Waiters/Barmen staff,3
+5600785,M,Y,Y,0,94866.23530800323,Secondary / secondary special,Civil marriage,House / apartment,-20440,-7300,0,1,0,Drivers,2
+5067400,F,N,Y,2,118247.9391231909,Higher education,Civil marriage,Office apartment,-19710,-1460,0,1,0,Private service staff,4

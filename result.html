@@ -1,0 +1,172 @@
+{% extends "base.html" %}
+
+{% block title %}Prediction Result{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">
+                    <i class="fas fa-check-circle me-2"></i>
+                    Prediction Result
+                </h4>
+            </div>
+            <div class="card-body text-center">
+                <!-- Result Status -->
+                <div class="result-icon mb-4">
+                    {% if prediction == "Approved" %}
+                    <i class="fas fa-check-circle fa-5x text-success"></i>
+                    <h2 class="text-success mt-3">Congratulations!</h2>
+                    <p class="lead text-success">Your credit card application is <strong>APPROVED</strong></p>
+                    {% else %}
+                    <i class="fas fa-times-circle fa-5x text-danger"></i>
+                    <h2 class="text-danger mt-3">Not Approved</h2>
+                    <p class="lead text-danger">Your credit card application is <strong>NOT APPROVED</strong></p>
+                    {% endif %}
+                </div>
+                
+                <!-- Confidence Score -->
+                <div class="card bg-light mb-4">
+                    <div class="card-body">
+                        <h5>Confidence Score</h5>
+                        <div class="progress" style="height: 30px;">
+                            {% set confidence_value = probability|replace('%', '')|float %}
+                            <div class="progress-bar {% if prediction == 'Approved' %}bg-success{% else %}bg-danger{% endif %} 
+                                progress-bar-striped progress-bar-animated" 
+                                role="progressbar" 
+                                style="width: {{ confidence_value }}%;" 
+                                aria-valuenow="{{ confidence_value }}" 
+                                aria-valuemin="0" 
+                                aria-valuemax="100">
+                                {{ probability }}
+                            </div>
+                        </div>
+                        <p class="text-muted mt-2">Model confidence in this prediction</p>
+                    </div>
+                </div>
+                
+                <!-- Summary Details -->
+                <div class="row text-start">
+                    <div class="col-md-6">
+                        <div class="card mb-3">
+                            <div class="card-header bg-light">
+                                <i class="fas fa-user me-2"></i>Personal Details
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Gender:</span>
+                                    <strong>{% if form_data.CODE_GENDER == 'M' %}Male{% else %}Female{% endif %}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Age:</span>
+                                    <strong>{{ (form_data.DAYS_BIRTH|abs // 365)|int }} years</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Education:</span>
+                                    <strong>{{ form_data.NAME_EDUCATION_TYPE }}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Family Status:</span>
+                                    <strong>{{ form_data.NAME_FAMILY_STATUS }}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Children:</span>
+                                    <strong>{{ form_data.CNT_CHILDREN }}</strong>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card mb-3">
+                            <div class="card-header bg-light">
+                                <i class="fas fa-money-bill me-2"></i>Financial Details
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Annual Income:</span>
+                                    <strong>${{ "{:,.0f}".format(form_data.AMT_INCOME_TOTAL|float) }}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Employment:</span>
+                                    <strong>{{ (form_data.DAYS_EMPLOYED|abs // 365)|int }} years</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Housing:</span>
+                                    <strong>{{ form_data.NAME_HOUSING_TYPE }}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Own Car:</span>
+                                    <strong>{% if form_data.FLAG_OWN_CAR == 'Y' %}Yes{% else %}No{% endif %}</strong>
+                                </li>
+                                <li class="list-group-item d-flex justify-content-between">
+                                    <span>Own Property:</span>
+                                    <strong>{% if form_data.FLAG_OWN_REALTY == 'Y' %}Yes{% else %}No{% endif %}</strong>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Action Buttons -->
+                <div class="mt-4">
+                    <a href="{{ url_for('predict') }}" class="btn btn-primary btn-lg me-2">
+                        <i class="fas fa-robot me-2"></i>New Prediction
+                    </a>
+                    <a href="{{ url_for('dashboard') }}" class="btn btn-outline-secondary btn-lg">
+                        <i class="fas fa-chart-bar me-2"></i>View Dashboard
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    .result-icon {
+        animation: pulse 2s ease-in-out;
+    }
+    
+    @keyframes pulse {
+        0% { transform: scale(0.8); opacity: 0; }
+        50% { transform: scale(1.1); }
+        100% { transform: scale(1); opacity: 1; }
+    }
+    
+    .progress {
+        border-radius: 15px;
+        overflow: hidden;
+        background-color: #e9ecef;
+    }
+    
+    .progress-bar {
+        transition: width 1s ease-in-out;
+        font-weight: 600;
+        font-size: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .list-group-item {
+        background-color: transparent;
+    }
+    
+    .card-header i {
+        width: 20px;
+    }
+    
+    @media (max-width: 768px) {
+        .display-4 {
+            font-size: 2.5rem;
+        }
+        
+        .btn-lg {
+            font-size: 1rem;
+            padding: 0.5rem 1rem;
+        }
+    }
+</style>
+{% endblock %}

@@ -1,0 +1,206 @@
+{% extends "base.html" %}
+
+{% block title %}Predict - Credit Card Approval{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-lg-10 mx-auto">
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0">
+                    <i class="fas fa-robot me-2"></i>
+                    Credit Card Application
+                </h4>
+            </div>
+            <div class="card-body">
+                {% if error %}
+                <div class="alert alert-danger alert-dismissible fade show">
+                    <i class="fas fa-exclamation-circle me-2"></i>
+                    {{ error }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+                {% endif %}
+                
+                <form method="POST" action="{{ url_for('predict') }}" id="predictionForm">
+                    <div class="row">
+                        <!-- Personal Information -->
+                        <div class="col-md-6">
+                            <h5 class="text-primary mb-3">
+                                <i class="fas fa-user me-2"></i>Personal Information
+                            </h5>
+                            
+                            <div class="mb-3">
+                                <label for="gender" class="form-label">Gender</label>
+                                <select class="form-select" id="gender" name="gender" required>
+                                    <option value="">Select Gender</option>
+                                    <option value="M">Male</option>
+                                    <option value="F">Female</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="age" class="form-label">Age</label>
+                                <input type="number" class="form-control" id="age" name="age" 
+                                       min="18" max="100" required>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="education" class="form-label">Education Level</label>
+                                <select class="form-select" id="education" name="education" required>
+                                    <option value="">Select Education</option>
+                                    <option value="Higher education">Higher Education</option>
+                                    <option value="Secondary / secondary special">Secondary</option>
+                                    <option value="Incomplete higher">Incomplete Higher</option>
+                                    <option value="Lower secondary">Lower Secondary</option>
+                                    <option value="Academic degree">Academic Degree</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="family_status" class="form-label">Family Status</label>
+                                <select class="form-select" id="family_status" name="family_status" required>
+                                    <option value="">Select Status</option>
+                                    <option value="Married">Married</option>
+                                    <option value="Single / not married">Single</option>
+                                    <option value="Civil marriage">Civil Marriage</option>
+                                    <option value="Divorced">Divorced</option>
+                                    <option value="Widow">Widow</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="children" class="form-label">Number of Children</label>
+                                <input type="number" class="form-control" id="children" name="children" 
+                                       min="0" max="10" value="0">
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="family_members" class="form-label">Family Members</label>
+                                <input type="number" class="form-control" id="family_members" 
+                                       name="family_members" min="1" max="20" value="1" required>
+                            </div>
+                        </div>
+                        
+                        <!-- Financial Information -->
+                        <div class="col-md-6">
+                            <h5 class="text-success mb-3">
+                                <i class="fas fa-money-bill-wave me-2"></i>Financial Information
+                            </h5>
+                            
+                            <div class="mb-3">
+                                <label for="income" class="form-label">Annual Income</label>
+                                <div class="input-group">
+                                    <span class="input-group-text">$</span>
+                                    <input type="number" class="form-control" id="income" name="income" 
+                                           min="0" step="1000" required>
+                                </div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="employed_days" class="form-label">Employment Duration (days)</label>
+                                <input type="number" class="form-control" id="employed_days" 
+                                       name="employed_days" min="0" value="365">
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="occupation" class="form-label">Occupation</label>
+                                <select class="form-select" id="occupation" name="occupation" required>
+                                    <option value="">Select Occupation</option>
+                                    <option value="Office staff">Office Staff</option>
+                                    <option value="Laborers">Laborers</option>
+                                    <option value="Sales staff">Sales Staff</option>
+                                    <option value="Core staff">Core Staff</option>
+                                    <option value="Managers">Managers</option>
+                                    <option value="High skill tech staff">Tech Staff</option>
+                                    <option value="Accountants">Accountants</option>
+                                    <option value="Medicine staff">Medicine Staff</option>
+                                    <option value="Private service staff">Private Service</option>
+                                    <option value="Realty agents">Realty Agents</option>
+                                    <option value="Cleaning staff">Cleaning Staff</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="housing_type" class="form-label">Housing Type</label>
+                                <select class="form-select" id="housing_type" name="housing_type" required>
+                                    <option value="">Select Housing</option>
+                                    <option value="House / apartment">House/Apartment</option>
+                                    <option value="With parents">With Parents</option>
+                                    <option value="Rented apartment">Rented Apartment</option>
+                                    <option value="Municipal apartment">Municipal Apartment</option>
+                                    <option value="Office apartment">Office Apartment</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="own_car" class="form-label">Own Car</label>
+                                <select class="form-select" id="own_car" name="own_car" required>
+                                    <option value="">Select</option>
+                                    <option value="Y">Yes</option>
+                                    <option value="N">No</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="own_property" class="form-label">Own Property</label>
+                                <select class="form-select" id="own_property" name="own_property" required>
+                                    <option value="">Select</option>
+                                    <option value="Y">Yes</option>
+                                    <option value="N">No</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Additional Information -->
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <h5 class="text-info mb-3">
+                                <i class="fas fa-phone me-2"></i>Contact Information
+                            </h5>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="work_phone" 
+                                               name="work_phone" value="1">
+                                        <label class="form-check-label" for="work_phone">
+                                            Work Phone
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="phone" 
+                                               name="phone" value="1" checked>
+                                        <label class="form-check-label" for="phone">
+                                            Personal Phone
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="email" 
+                                               name="email" value="1">
+                                        <label class="form-check-label" for="email">
+                                            Email
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="text-center mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="fas fa-robot me-2"></i>Predict Approval
+                        </button>
+                        <button type="reset" class="btn btn-secondary btn-lg">
+                            <i class="fas fa-undo me-2"></i>Reset
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
