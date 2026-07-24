@@ -22,3 +22,7 @@ An intelligent web application that predicts credit card approval using machine 
 ```bash
 git clone https://github.com/SyedReshma09/Credit-Card-Approval-AI.git
 cd Credit-Card-Approval-AI
+
+
+Google Drive Demmo Video  Link:
+https://drive.google.com/file/d/13cytdikxR-oeCoFpVqsV9uUaLeu-ajIh/view?usp=drive_link
