@@ -16,6 +16,10 @@ An intelligent web application that predicts credit card approval using machine 
 - pip (Python package manager)
 - Git (optional)
 
+## 🎥 Demo Video of the Project
+
+➡️ [Watch Demo Video](DEMO.md)
+
 ## 🚀 Installation
 
 1. Clone the repository:
@@ -23,6 +27,4 @@ An intelligent web application that predicts credit card approval using machine 
 git clone https://github.com/SyedReshma09/Credit-Card-Approval-AI.git
 cd Credit-Card-Approval-AI
 
-## 🎥 Demo
 
-➡️ [Watch Demo Video](DEMO.md)
