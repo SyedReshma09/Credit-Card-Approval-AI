@@ -24,5 +24,3 @@ git clone https://github.com/SyedReshma09/Credit-Card-Approval-AI.git
 cd Credit-Card-Approval-AI
 
 
-Google Drive Demmo Video  Link:
-https://drive.google.com/file/d/13cytdikxR-oeCoFpVqsV9uUaLeu-ajIh/view?usp=drive_link
